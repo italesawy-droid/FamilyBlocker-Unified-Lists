@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-06-10T21:18:46Z",
+  "categories": [
+    {
+      "id": "adult_core",
+      "label_ar": "إباحي - أساسي",
+      "label_en": "Adult/Porn Core",
+      "default_enabled": true,
+      "content_types": [
+        "hosts",
+        "domains",
+        "titles",
+        "url_patterns"
+      ],
+      "files": {
+        "domains": "public/domains/adult_core.txt",
+        "hosts": "public/hosts/adult_core.hosts",
+        "titles": "public/titles/adult_core.txt",
+        "keywords": "public/keywords/adult_core.txt",
+        "url_patterns": "public/url_patterns/adult_core.txt"
+      }
+    },
+    {
+      "id": "adult_extra_strict",
+      "label_ar": "إباحي - تشدد إضافي",
+      "label_en": "Adult/Porn Extra Strict",
+      "default_enabled": true,
+      "content_types": [
+        "hosts",
+        "domains",
+        "titles",
+        "url_patterns"
+      ],
+      "files": {
+        "domains": "public/domains/adult_extra_strict.txt",
+        "hosts": "public/hosts/adult_extra_strict.hosts",
+        "titles": "public/titles/adult_extra_strict.txt",
+        "keywords": "public/keywords/adult_extra_strict.txt",
+        "url_patterns": "public/url_patterns/adult_extra_strict.txt"
+      }
+    },
+    {
+      "id": "adult_streaming_ads",
+      "label_ar": "إعلانات/كام/ستريمينج بالغ",
+      "label_en": "Adult Ads / Cam / Streaming",
+      "default_enabled": true,
+      "content_types": [
+        "hosts",
+        "domains",
+        "keywords",
+        "url_patterns"
+      ],
+      "files": {
+        "domains": "public/domains/adult_streaming_ads.txt",
+        "hosts": "public/hosts/adult_streaming_ads.hosts",
+        "titles": "public/titles/adult_streaming_ads.txt",
+        "keywords": "public/keywords/adult_streaming_ads.txt",
+        "url_patterns": "public/url_patterns/adult_streaming_ads.txt"
+      }
+    },
+    {
+      "id": "adult_movies_high_risk",
+      "label_ar": "أفلام ومسلسلات عالية الخطورة",
+      "label_en": "High-Risk Movies and Series",
+      "default_enabled": true,
+      "content_types": [
+        "titles",
+        "keywords",
+        "url_patterns"
+      ],
+      "files": {
+        "domains": "public/domains/adult_movies_high_risk.txt",
+        "hosts": "public/hosts/adult_movies_high_risk.hosts",
+        "titles": "public/titles/adult_movies_high_risk.txt",
+        "keywords": "public/keywords/adult_movies_high_risk.txt",
+        "url_patterns": "public/url_patterns/adult_movies_high_risk.txt"
+      }
+    }
+  ]
+}

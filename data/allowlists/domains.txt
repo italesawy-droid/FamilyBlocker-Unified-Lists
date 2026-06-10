@@ -1,0 +1,4 @@
+# Domains allowlist
+# One domain per line. Lines here will never be included in generated hosts/domain lists.
+# Example:
+# example.com

@@ -1,0 +1,1 @@
+# FamilyBlockerUnified URL patterns: adult_extra_strict

@@ -1,0 +1,309 @@
+{
+  "schema_version": 1,
+  "project": "FamilyBlockerUnified",
+  "generated_utc": "2026-06-10T21:18:46Z",
+  "client_note_ar": "استخدم هذا الملف في برنامج ويندوز لعرض التصنيفات كـ CheckBox ثم تحميل الملفات النسبية المطلوبة فقط.",
+  "paths_are_relative_to_repo_root": true,
+  "all_files": {
+    "domains": {
+      "path": "public/domains_all.txt",
+      "exists": true,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "items": 0
+    },
+    "hosts": {
+      "path": "public/hosts_all.hosts",
+      "exists": true,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "items": 0
+    },
+    "titles": {
+      "path": "public/titles_all.txt",
+      "exists": true,
+      "bytes": 1743,
+      "sha256": "c2f881518b787cdde9440c02e3a1c9349a98278b03d3b91aa9218ee8f7948241",
+      "items": 110
+    },
+    "keywords": {
+      "path": "public/keywords_all.txt",
+      "exists": true,
+      "bytes": 1974,
+      "sha256": "7316bb4150e1eabb5be03e931904883514ca5d9d0ff1e25292803986a8c64600",
+      "items": 107
+    },
+    "url_patterns": {
+      "path": "public/url_patterns_all.txt",
+      "exists": true,
+      "bytes": 40760,
+      "sha256": "d5f3a33a5547553b3a65d421b9ef9526c722d5c0ad606c05efc69ea0ccd676ab",
+      "items": 1000
+    }
+  },
+  "categories": [
+    {
+      "id": "adult_core",
+      "label_ar": "إباحي - أساسي",
+      "label_en": "Adult/Porn Core",
+      "description_ar": "حظر أساسي للمواقع الإباحية والأفلام المصنفة صراحة كإباحية.",
+      "default_enabled": true,
+      "risk_level": "high",
+      "content_types": [
+        "hosts",
+        "domains",
+        "titles",
+        "url_patterns"
+      ],
+      "files": {
+        "domains": {
+          "path": "public/domains/adult_core.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "hosts": {
+          "path": "public/hosts/adult_core.hosts",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "titles": {
+          "path": "public/titles/adult_core.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "keywords": {
+          "path": "public/keywords/adult_core.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "url_patterns": {
+          "path": "public/url_patterns/adult_core.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        }
+      }
+    },
+    {
+      "id": "adult_extra_strict",
+      "label_ar": "إباحي - تشدد إضافي",
+      "label_en": "Adult/Porn Extra Strict",
+      "description_ar": "تصنيفات إضافية صارمة قد تزيد الحظر والنتائج الخاطئة؛ مناسبة عند الرغبة في أعلى مستوى منع.",
+      "default_enabled": true,
+      "risk_level": "very_high",
+      "content_types": [
+        "hosts",
+        "domains",
+        "titles",
+        "url_patterns"
+      ],
+      "files": {
+        "domains": {
+          "path": "public/domains/adult_extra_strict.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "hosts": {
+          "path": "public/hosts/adult_extra_strict.hosts",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "titles": {
+          "path": "public/titles/adult_extra_strict.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "keywords": {
+          "path": "public/keywords/adult_extra_strict.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "url_patterns": {
+          "path": "public/url_patterns/adult_extra_strict.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        }
+      }
+    },
+    {
+      "id": "adult_streaming_ads",
+      "label_ar": "إعلانات/كام/ستريمينج بالغ",
+      "label_en": "Adult Ads / Cam / Streaming",
+      "description_ar": "مصادر ومفاتيح مرتبطة بإعلانات ومواقع البالغين والبث المباشر؛ قابلة للفصل كخانة اختيار مستقلة.",
+      "default_enabled": true,
+      "risk_level": "high",
+      "content_types": [
+        "hosts",
+        "domains",
+        "keywords",
+        "url_patterns"
+      ],
+      "files": {
+        "domains": {
+          "path": "public/domains/adult_streaming_ads.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "hosts": {
+          "path": "public/hosts/adult_streaming_ads.hosts",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "titles": {
+          "path": "public/titles/adult_streaming_ads.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "keywords": {
+          "path": "public/keywords/adult_streaming_ads.txt",
+          "exists": true,
+          "bytes": 129,
+          "sha256": "f47471747ab3437d200dcc530fc83a3bc1c1522e99ae749706207f3704f6bc8a",
+          "items": 6
+        },
+        "url_patterns": {
+          "path": "public/url_patterns/adult_streaming_ads.txt",
+          "exists": true,
+          "bytes": 1353,
+          "sha256": "7a4f58d491f6edd3a46ef7269b67e8ef241c1edf524b46d91d26c6a8ee32a31c",
+          "items": 30
+        }
+      }
+    },
+    {
+      "id": "adult_movies_high_risk",
+      "label_ar": "أفلام ومسلسلات عالية الخطورة",
+      "label_en": "High-Risk Movies and Series",
+      "description_ar": "أسماء أفلام/مسلسلات وكلمات بحث غير مناسبة عائليًا، مع توليد أنماط حظر للبحث والروابط.",
+      "default_enabled": true,
+      "risk_level": "high",
+      "content_types": [
+        "titles",
+        "keywords",
+        "url_patterns"
+      ],
+      "files": {
+        "domains": {
+          "path": "public/domains/adult_movies_high_risk.txt",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "hosts": {
+          "path": "public/hosts/adult_movies_high_risk.hosts",
+          "exists": true,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "items": 0
+        },
+        "titles": {
+          "path": "public/titles/adult_movies_high_risk.txt",
+          "exists": true,
+          "bytes": 1743,
+          "sha256": "c2f881518b787cdde9440c02e3a1c9349a98278b03d3b91aa9218ee8f7948241",
+          "items": 110
+        },
+        "keywords": {
+          "path": "public/keywords/adult_movies_high_risk.txt",
+          "exists": true,
+          "bytes": 1845,
+          "sha256": "470c64de9964e036cd0a41848806978c3562861aa2f8281be90c45611f1d91cd",
+          "items": 101
+        },
+        "url_patterns": {
+          "path": "public/url_patterns/adult_movies_high_risk.txt",
+          "exists": true,
+          "bytes": 39407,
+          "sha256": "91b801beaaf1e62ee4c1b820977ae7c3d38a1aeca63b940fc508daf7d99c7c40",
+          "items": 970
+        }
+      }
+    }
+  ],
+  "reports": {
+    "hosts_sources": {
+      "path": "familyblocker_sources_report.tsv",
+      "exists": true,
+      "bytes": 672,
+      "sha256": "1f707c8cb768c4631146a3b47e0c3ccf7b52f2ee53d81ab4a428d25613756a54",
+      "items": 5
+    },
+    "titles_sources": {
+      "path": "blocked_titles_sources_report.tsv",
+      "exists": true,
+      "bytes": 892,
+      "sha256": "c63e7714f292e2b7cdeda6b020f831ad9b6b66366be06fdf80e9ef91d8ed4a30",
+      "items": 8
+    },
+    "titles_by_category": {
+      "path": "blocked_titles_by_category.tsv",
+      "exists": true,
+      "bytes": 5068,
+      "sha256": "50e1062b6745a518f455583cc102d1faba995f43cebd3ade4a8dffbd6dce62a9",
+      "items": 111
+    }
+  },
+  "backward_compatible_root_outputs": {
+    "familyblocker_domains": {
+      "path": "familyblocker_domains.txt",
+      "exists": true,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "items": 0
+    },
+    "familyblocker_hosts": {
+      "path": "familyblocker_hosts.txt",
+      "exists": true,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "items": 0
+    },
+    "blocked_titles": {
+      "path": "blocked_titles.txt",
+      "exists": true,
+      "bytes": 1743,
+      "sha256": "c2f881518b787cdde9440c02e3a1c9349a98278b03d3b91aa9218ee8f7948241",
+      "items": 110
+    },
+    "blocked_keywords": {
+      "path": "blocked_keywords.txt",
+      "exists": true,
+      "bytes": 1974,
+      "sha256": "7316bb4150e1eabb5be03e931904883514ca5d9d0ff1e25292803986a8c64600",
+      "items": 107
+    },
+    "generated_url_patterns": {
+      "path": "generated_url_patterns.txt",
+      "exists": true,
+      "bytes": 40760,
+      "sha256": "d5f3a33a5547553b3a65d421b9ef9526c722d5c0ad606c05efc69ea0ccd676ab",
+      "items": 1000
+    }
+  }
+}

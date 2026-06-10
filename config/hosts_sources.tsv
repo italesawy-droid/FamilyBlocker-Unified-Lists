@@ -1,0 +1,5 @@
+# source_id	category_id	enabled	url	note
+blocklistproject_porn	adult_core	1	https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt	BlockListProject porn domains
+blocklistproject_adult	adult_extra_strict	1	https://raw.githubusercontent.com/blocklistproject/Lists/master/adult.txt	BlockListProject adult domains
+stevenblack_porn	adult_extra_strict	0	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts	Large aggregate; disabled by default to reduce false positives/duplicates
+stevenblack_porn_only	adult_core	0	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts	Porn-only variant if needed

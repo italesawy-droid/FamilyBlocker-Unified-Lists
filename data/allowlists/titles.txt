@@ -1,0 +1,4 @@
+# Titles allowlist
+# One exact title per line. Lines here will be excluded from generated title lists.
+# Example:
+# A safe movie title

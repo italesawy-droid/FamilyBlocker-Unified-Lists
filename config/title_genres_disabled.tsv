@@ -1,0 +1,3 @@
+# qid	category_id	enabled	label_en	label_ar
+# ضع هنا أي تصنيفات تريد الاحتفاظ بها بدون تفعيل.
+# مثال: انقل السطر إلى title_genres_enabled.tsv وغير enabled إلى 1 عند الحاجة.

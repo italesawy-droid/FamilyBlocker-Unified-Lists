@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "project": "FamilyBlockerUnified",
+  "categories": [
+    {
+      "id": "adult_core",
+      "label_ar": "إباحي - أساسي",
+      "label_en": "Adult/Porn Core",
+      "description_ar": "حظر أساسي للمواقع الإباحية والأفلام المصنفة صراحة كإباحية.",
+      "content_types": [
+        "hosts",
+        "domains",
+        "titles",
+        "url_patterns"
+      ],
+      "default_enabled": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "adult_extra_strict",
+      "label_ar": "إباحي - تشدد إضافي",
+      "label_en": "Adult/Porn Extra Strict",
+      "description_ar": "تصنيفات إضافية صارمة قد تزيد الحظر والنتائج الخاطئة؛ مناسبة عند الرغبة في أعلى مستوى منع.",
+      "content_types": [
+        "hosts",
+        "domains",
+        "titles",
+        "url_patterns"
+      ],
+      "default_enabled": true,
+      "risk_level": "very_high"
+    },
+    {
+      "id": "adult_streaming_ads",
+      "label_ar": "إعلانات/كام/ستريمينج بالغ",
+      "label_en": "Adult Ads / Cam / Streaming",
+      "description_ar": "مصادر ومفاتيح مرتبطة بإعلانات ومواقع البالغين والبث المباشر؛ قابلة للفصل كخانة اختيار مستقلة.",
+      "content_types": [
+        "hosts",
+        "domains",
+        "keywords",
+        "url_patterns"
+      ],
+      "default_enabled": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "adult_movies_high_risk",
+      "label_ar": "أفلام ومسلسلات عالية الخطورة",
+      "label_en": "High-Risk Movies and Series",
+      "description_ar": "أسماء أفلام/مسلسلات وكلمات بحث غير مناسبة عائليًا، مع توليد أنماط حظر للبحث والروابط.",
+      "content_types": [
+        "titles",
+        "keywords",
+        "url_patterns"
+      ],
+      "default_enabled": true,
+      "risk_level": "high"
+    }
+  ]
+}

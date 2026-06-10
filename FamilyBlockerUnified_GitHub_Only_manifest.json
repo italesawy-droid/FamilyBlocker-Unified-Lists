@@ -1,0 +1,417 @@
+[
+  {
+    "path": ".github/workflows/update_unified_lists.yml",
+    "bytes": 885,
+    "sha256": "949345ea3f3cb3012739d95cacbc284d3997a963de05f6cdad87ad04a99d96fe"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 39,
+    "sha256": "d6439973d8a506f44142877efa1b34b8f7d904803a04bf61a03ab338883a8e2c"
+  },
+  {
+    "path": "FILE_TREE.txt",
+    "bytes": 2873,
+    "sha256": "26b5baf78982ac207a840aee07a0b87d8526a0f45cb7e6f785ed74d13673cdcb"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1924,
+    "sha256": "9b898655b75ab22a3c6120a4c1cad80c368a3f52ef407d024760d0b667e27892"
+  },
+  {
+    "path": "README_AR.txt",
+    "bytes": 3156,
+    "sha256": "d69e2706a21f689f3bbd84461d8cd3156ebcf5bc248bc6c4b3e8c6c558d0ff48"
+  },
+  {
+    "path": "blocked_keywords.txt",
+    "bytes": 1974,
+    "sha256": "7316bb4150e1eabb5be03e931904883514ca5d9d0ff1e25292803986a8c64600"
+  },
+  {
+    "path": "blocked_titles.txt",
+    "bytes": 1743,
+    "sha256": "c2f881518b787cdde9440c02e3a1c9349a98278b03d3b91aa9218ee8f7948241"
+  },
+  {
+    "path": "blocked_titles_by_category.tsv",
+    "bytes": 5068,
+    "sha256": "50e1062b6745a518f455583cc102d1faba995f43cebd3ade4a8dffbd6dce62a9"
+  },
+  {
+    "path": "blocked_titles_sources_report.tsv",
+    "bytes": 892,
+    "sha256": "c63e7714f292e2b7cdeda6b020f831ad9b6b66366be06fdf80e9ef91d8ed4a30"
+  },
+  {
+    "path": "config/categories.json",
+    "bytes": 2071,
+    "sha256": "594490b7336540dc4ef7dd81d1b7eb41cbb85b333caea9edf69f925b51f1e050"
+  },
+  {
+    "path": "config/hosts_sources.tsv",
+    "bytes": 670,
+    "sha256": "a081782260f9e039c96c7a3e553ee9f57b256cfb11df1c29b6afa69d11096f05"
+  },
+  {
+    "path": "config/title_genres_disabled.tsv",
+    "bytes": 243,
+    "sha256": "46219dc6c600201f311d4bba6eb39bd4a91fe3783db9db71cda1d6aaa1bcaf6c"
+  },
+  {
+    "path": "config/title_genres_enabled.tsv",
+    "bytes": 359,
+    "sha256": "83427971023df906981eec5d2128709f1cdbab1993d06a255e18bd6895473913"
+  },
+  {
+    "path": "data/allowlists/domains.txt",
+    "bytes": 135,
+    "sha256": "83dee941b011a07a52156b343b87106f4803210358c619f0829a0cbed9413e01"
+  },
+  {
+    "path": "data/allowlists/titles.txt",
+    "bytes": 135,
+    "sha256": "205bcd8c863471db230ef0cdbf5ff9666d97e1181969edb0a82aa6b68b44c797"
+  },
+  {
+    "path": "data/manual/domains.tsv",
+    "bytes": 82,
+    "sha256": "f1fd65094e05e294ba3832e7325bb0f2da8e4b00ab9ee03043f43302578a26f4"
+  },
+  {
+    "path": "data/manual/keywords.tsv",
+    "bytes": 6798,
+    "sha256": "60d58fbbff3f1228498403ca9b9f32fcc1e365aec5d8be4ff3988c3de0de3b58"
+  },
+  {
+    "path": "data/manual/titles.tsv",
+    "bytes": 6828,
+    "sha256": "de0be29ac4e4c0de03ff31d54b9361e639c3841d702c0dcc355a5a62a5f98921"
+  },
+  {
+    "path": "domains_allowlist.txt",
+    "bytes": 135,
+    "sha256": "83dee941b011a07a52156b343b87106f4803210358c619f0829a0cbed9413e01"
+  },
+  {
+    "path": "domains_manual.tsv",
+    "bytes": 82,
+    "sha256": "f1fd65094e05e294ba3832e7325bb0f2da8e4b00ab9ee03043f43302578a26f4"
+  },
+  {
+    "path": "familyblocker_categories.json",
+    "bytes": 2566,
+    "sha256": "c22bc2a31c6afe5c18898380e1e10cbaea5509e306254e584675bd0580dc71e0"
+  },
+  {
+    "path": "familyblocker_domains.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "familyblocker_hosts.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "familyblocker_manifest.json",
+    "bytes": 10367,
+    "sha256": "e9a260bbe6d20df39be311883678ef0faa8ce576efe1d2866dbb280dbb1534dd"
+  },
+  {
+    "path": "familyblocker_sources_report.tsv",
+    "bytes": 672,
+    "sha256": "1f707c8cb768c4631146a3b47e0c3ccf7b52f2ee53d81ab4a428d25613756a54"
+  },
+  {
+    "path": "generated/domains/all.txt",
+    "bytes": 36,
+    "sha256": "8e9a22e51e81bcc82d79b10b17e92bbd201aea45720abce40fadeba0305308e7"
+  },
+  {
+    "path": "generated/domains/by_category/adult_core.txt",
+    "bytes": 43,
+    "sha256": "bc5083f016b36b2daecdfe38451bc1c8fd7e947146bde9d645c04ac2a81b86a8"
+  },
+  {
+    "path": "generated/domains/by_category/adult_extra_strict.txt",
+    "bytes": 51,
+    "sha256": "6b5f8c8e07c673c3dd7f260881b834be4217ecd45d8e6dfebf0cbd3af320a428"
+  },
+  {
+    "path": "generated/domains/by_category/adult_movies_high_risk.txt",
+    "bytes": 55,
+    "sha256": "b188c5df3e3730db7ec592f0d338f03e2948d283b09ccd2f8d382b1685179305"
+  },
+  {
+    "path": "generated/domains/by_category/adult_streaming_ads.txt",
+    "bytes": 52,
+    "sha256": "4a21e59d413fc641a95fa53c2db89fa24788885181cd6a68f4cc1fbf2370dab0"
+  },
+  {
+    "path": "generated/hosts/all.hosts",
+    "bytes": 34,
+    "sha256": "8b525646975d5c38c76460e35268fc068dfc2658533d44923e325d83a0635bd2"
+  },
+  {
+    "path": "generated/hosts/by_category/adult_core.hosts",
+    "bytes": 41,
+    "sha256": "29b9df89b0a754b5f228daa734306de434a7e2a811df2eb3a7a57f3a6ccdf8b7"
+  },
+  {
+    "path": "generated/hosts/by_category/adult_extra_strict.hosts",
+    "bytes": 49,
+    "sha256": "c72957e91e9b8a5237e52ec9beca9065d3a77918881340607a8849cc8aea1f1d"
+  },
+  {
+    "path": "generated/hosts/by_category/adult_movies_high_risk.hosts",
+    "bytes": 53,
+    "sha256": "3794ddadd471489903bbd261063c0d5194a0cd4fca726a9e4da099db1761d07e"
+  },
+  {
+    "path": "generated/hosts/by_category/adult_streaming_ads.hosts",
+    "bytes": 50,
+    "sha256": "97dbe5cb941e541cd1da1a8a509ff59fd119a26fd108a6c3f0e319b61369d2e8"
+  },
+  {
+    "path": "generated/keywords/all.txt",
+    "bytes": 2011,
+    "sha256": "4bee779aa4418f547379297884a41bd050f7bef60124681efacc7fb64831e71a"
+  },
+  {
+    "path": "generated/keywords/by_category/adult_core.txt",
+    "bytes": 44,
+    "sha256": "3751e9bb89b668543263fc069fe0c29f06f98e31d357f459d016c4177390bf02"
+  },
+  {
+    "path": "generated/keywords/by_category/adult_extra_strict.txt",
+    "bytes": 52,
+    "sha256": "5b3c597fac4e9e3ad36b365ba4f53a6ace97bd238fa1683648de083fd1d6477b"
+  },
+  {
+    "path": "generated/keywords/by_category/adult_movies_high_risk.txt",
+    "bytes": 1901,
+    "sha256": "1129f68a37a3a719266942d3f0b84ae8723b3c970feb256c29c36ed26626bb06"
+  },
+  {
+    "path": "generated/keywords/by_category/adult_streaming_ads.txt",
+    "bytes": 182,
+    "sha256": "477a1e1cffdf0bef83e87312dac3c9070e5ec301a98c0ab5315447ab4045e7f9"
+  },
+  {
+    "path": "generated/titles/all.txt",
+    "bytes": 1778,
+    "sha256": "bc1485e003d6fc3e72dee19bb1a2027fd5fe97eee3bd163c45c5787f29f95880"
+  },
+  {
+    "path": "generated/titles/by_category/adult_core.txt",
+    "bytes": 42,
+    "sha256": "42f3268359de56bfbfe271f2fdd2107e0ff4f667cbee3900cf16290b60069689"
+  },
+  {
+    "path": "generated/titles/by_category/adult_extra_strict.txt",
+    "bytes": 50,
+    "sha256": "4343b8758e21d6d5dc58f777dbdd0a4e8eedbe9a992a1509f705c10988e1d54d"
+  },
+  {
+    "path": "generated/titles/by_category/adult_movies_high_risk.txt",
+    "bytes": 1797,
+    "sha256": "3f41bc824ce223ad8e893698e5a7a4e4fc8a9ad4e06046410b4952af71ebd189"
+  },
+  {
+    "path": "generated/titles/by_category/adult_streaming_ads.txt",
+    "bytes": 51,
+    "sha256": "c82c589ec876338104e2f390c95b42d306e3d7d74d87262ee56536afdefe7b4d"
+  },
+  {
+    "path": "generated/url_patterns/all.txt",
+    "bytes": 40801,
+    "sha256": "780333098d50893b0d8a8bc13d9d314dab20545b5f921355243df7603235d87f"
+  },
+  {
+    "path": "generated/url_patterns/by_category/adult_core.txt",
+    "bytes": 48,
+    "sha256": "ff871c482021f5da4f14ea5d6996ba405830b86b72465989c272c1c98da6919b"
+  },
+  {
+    "path": "generated/url_patterns/by_category/adult_extra_strict.txt",
+    "bytes": 56,
+    "sha256": "36d24e5a6388d8481b565452f1d02e7145b182544fae335d0c00296520a94f8a"
+  },
+  {
+    "path": "generated/url_patterns/by_category/adult_movies_high_risk.txt",
+    "bytes": 39467,
+    "sha256": "7ba9c95ea557a6ac0439dc69508565a0a172b385ad81be5a5c3d946be307a98d"
+  },
+  {
+    "path": "generated/url_patterns/by_category/adult_streaming_ads.txt",
+    "bytes": 1410,
+    "sha256": "5a09b26374e7e7d497419066c382fcd0f97c690aced43ffbb861b3ebb0b579aa"
+  },
+  {
+    "path": "generated_url_patterns.txt",
+    "bytes": 40760,
+    "sha256": "d5f3a33a5547553b3a65d421b9ef9526c722d5c0ad606c05efc69ea0ccd676ab"
+  },
+  {
+    "path": "public/domains/adult_core.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/domains/adult_extra_strict.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/domains/adult_movies_high_risk.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/domains/adult_streaming_ads.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/domains_all.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/hosts/adult_core.hosts",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/hosts/adult_extra_strict.hosts",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/hosts/adult_movies_high_risk.hosts",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/hosts/adult_streaming_ads.hosts",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/hosts_all.hosts",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/keywords/adult_core.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/keywords/adult_extra_strict.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/keywords/adult_movies_high_risk.txt",
+    "bytes": 1845,
+    "sha256": "470c64de9964e036cd0a41848806978c3562861aa2f8281be90c45611f1d91cd"
+  },
+  {
+    "path": "public/keywords/adult_streaming_ads.txt",
+    "bytes": 129,
+    "sha256": "f47471747ab3437d200dcc530fc83a3bc1c1522e99ae749706207f3704f6bc8a"
+  },
+  {
+    "path": "public/keywords_all.txt",
+    "bytes": 1974,
+    "sha256": "7316bb4150e1eabb5be03e931904883514ca5d9d0ff1e25292803986a8c64600"
+  },
+  {
+    "path": "public/titles/adult_core.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/titles/adult_extra_strict.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/titles/adult_movies_high_risk.txt",
+    "bytes": 1743,
+    "sha256": "c2f881518b787cdde9440c02e3a1c9349a98278b03d3b91aa9218ee8f7948241"
+  },
+  {
+    "path": "public/titles/adult_streaming_ads.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/titles_all.txt",
+    "bytes": 1743,
+    "sha256": "c2f881518b787cdde9440c02e3a1c9349a98278b03d3b91aa9218ee8f7948241"
+  },
+  {
+    "path": "public/url_patterns/adult_core.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/url_patterns/adult_extra_strict.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "public/url_patterns/adult_movies_high_risk.txt",
+    "bytes": 39407,
+    "sha256": "91b801beaaf1e62ee4c1b820977ae7c3d38a1aeca63b940fc508daf7d99c7c40"
+  },
+  {
+    "path": "public/url_patterns/adult_streaming_ads.txt",
+    "bytes": 1353,
+    "sha256": "7a4f58d491f6edd3a46ef7269b67e8ef241c1edf524b46d91d26c6a8ee32a31c"
+  },
+  {
+    "path": "public/url_patterns_all.txt",
+    "bytes": 40760,
+    "sha256": "d5f3a33a5547553b3a65d421b9ef9526c722d5c0ad606c05efc69ea0ccd676ab"
+  },
+  {
+    "path": "scripts/build_manifest.py",
+    "bytes": 3667,
+    "sha256": "cbd43aaa96baeb222bd7f12e848a78f324f1a4c76a2ce2c8cf7c2af00d5d047a"
+  },
+  {
+    "path": "scripts/common.py",
+    "bytes": 4883,
+    "sha256": "80801511295b2da941db7bb5186de65619ff372997eb5ac35947047525630f65"
+  },
+  {
+    "path": "scripts/update_all.py",
+    "bytes": 504,
+    "sha256": "efa2175a8957777eb1fad9cc96abff85f1f76ba990adf8e6a22ef95c2945a477"
+  },
+  {
+    "path": "scripts/update_hosts.py",
+    "bytes": 4053,
+    "sha256": "8f3e903d8e920f46b42817a8c9cd7524a0f54c33f6ba51f8257aea578057ee8a"
+  },
+  {
+    "path": "scripts/update_titles.py",
+    "bytes": 8296,
+    "sha256": "fa340732328ad38c9aa886b428c0181f5891dd9c63af896d17f869ae6c3c0e82"
+  },
+  {
+    "path": "sources_disabled.tsv",
+    "bytes": 383,
+    "sha256": "fc80fa9313ce842fdcd61bd0a1d8994f537fa51736f0c09d344a643baa1ab529"
+  },
+  {
+    "path": "sources_enabled.tsv",
+    "bytes": 328,
+    "sha256": "42365d5af8dc449df5fc26900d24498f6390a104dbefb6379a27e4ee2d6d5bee"
+  }
+]
