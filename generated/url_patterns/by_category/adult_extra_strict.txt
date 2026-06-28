@@ -1,5 +1,4 @@
 # FamilyBlockerUnified URL patterns: adult_extra_strict
-*://*.bing.com/search*21st*Birthday*Facial*
 *://*.bing.com/search*A*Midsummer*Night*s*Lewd*Dream*
 *://*.bing.com/search*Bear*Oasis*
 *://*.bing.com/search*Christophe*
@@ -45,7 +44,6 @@
 *://*.bing.com/search*Teenage*Lesbian*
 *://*.bing.com/search*Titwoman*Vs*Titwoman*
 *://*.bing.com/search*Under*The*Veil*
-*://*.duckduckgo.com/*q=*21st*Birthday*Facial*
 *://*.duckduckgo.com/*q=*A*Midsummer*Night*s*Lewd*Dream*
 *://*.duckduckgo.com/*q=*Bear*Oasis*
 *://*.duckduckgo.com/*q=*Christophe*
@@ -91,7 +89,6 @@
 *://*.duckduckgo.com/*q=*Teenage*Lesbian*
 *://*.duckduckgo.com/*q=*Titwoman*Vs*Titwoman*
 *://*.duckduckgo.com/*q=*Under*The*Veil*
-*://*.google.*/*q=*21st*Birthday*Facial*
 *://*.google.*/*q=*A*Midsummer*Night*s*Lewd*Dream*
 *://*.google.*/*q=*Bear*Oasis*
 *://*.google.*/*q=*Christophe*
@@ -137,7 +134,6 @@
 *://*.google.*/*q=*Teenage*Lesbian*
 *://*.google.*/*q=*Titwoman*Vs*Titwoman*
 *://*.google.*/*q=*Under*The*Veil*
-*://*.youtube.com/results*search_query=*21st*Birthday*Facial*
 *://*.youtube.com/results*search_query=*A*Midsummer*Night*s*Lewd*Dream*
 *://*.youtube.com/results*search_query=*Bear*Oasis*
 *://*.youtube.com/results*search_query=*Christophe*
@@ -183,7 +179,6 @@
 *://*.youtube.com/results*search_query=*Teenage*Lesbian*
 *://*.youtube.com/results*search_query=*Titwoman*Vs*Titwoman*
 *://*.youtube.com/results*search_query=*Under*The*Veil*
-*://*/*21st*Birthday*Facial*
 *://*/*A*Midsummer*Night*s*Lewd*Dream*
 *://*/*Bear*Oasis*
 *://*/*Christophe*
