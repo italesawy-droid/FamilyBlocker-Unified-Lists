@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "project": "FamilyBlockerUnified",
-  "generated_utc": "2026-06-28T10:56:40Z",
+  "generated_utc": "2026-07-05T10:54:01Z",
   "client_note_ar": "استخدم هذا الملف في برنامج ويندوز لعرض التصنيفات كـ CheckBox ثم تحميل الملفات النسبية المطلوبة فقط.",
   "paths_are_relative_to_repo_root": true,
   "all_files": {
     "domains": {
       "path": "public/domains_all.txt",
       "exists": true,
-      "bytes": 10396547,
-      "sha256": "96a731c061db533143d5adfad9130cacab99cdc9dbdb8350f38e4a656a73c8be",
-      "items": 499122
+      "bytes": 18009991,
+      "sha256": "14da22cebb795876b746f9b896e69842b4c339f750e0cdc162304d7e5878fcbb",
+      "items": 926993
     },
     "hosts": {
       "path": "public/hosts_all.hosts",
       "exists": true,
-      "bytes": 14389523,
-      "sha256": "c8990d0a0ed96db0abd5d7eb283846fc1a2e93e4ec19388440da93de7aec97e0",
-      "items": 499122
+      "bytes": 25425935,
+      "sha256": "bdddfcb5f111f73c9c54452d87efa66cce21e3f5454990158c46100b9960becc",
+      "items": 926993
     },
     "titles": {
       "path": "public/titles_all.txt",
       "exists": true,
-      "bytes": 88049,
-      "sha256": "26cbeee8dfa9989e824bc2c9e621f8d26105f633af0ee2cc286bed371482ec73",
-      "items": 4874
+      "bytes": 88917,
+      "sha256": "ad87b6cc1cdf942da1ddc39676719ce0917687fdf2b394b286673183d2937b97",
+      "items": 4925
     },
     "keywords": {
       "path": "public/keywords_all.txt",
@@ -36,9 +36,9 @@
     "url_patterns": {
       "path": "public/url_patterns_all.txt",
       "exists": true,
-      "bytes": 1029301,
-      "sha256": "5486584c381db570e177dc0472288e26e1ff60dd28df1823d2823b6e6cd6ac2b",
-      "items": 24810
+      "bytes": 1039659,
+      "sha256": "b4e0bf486a2ff01faa16d4c0890964f8f5f2d7ce9b5df44b55e9983e4a0d843e",
+      "items": 25065
     }
   },
   "categories": [
@@ -59,22 +59,22 @@
         "domains": {
           "path": "public/domains/adult_core.txt",
           "exists": true,
-          "bytes": 10396547,
-          "sha256": "96a731c061db533143d5adfad9130cacab99cdc9dbdb8350f38e4a656a73c8be",
-          "items": 499122
+          "bytes": 18009991,
+          "sha256": "14da22cebb795876b746f9b896e69842b4c339f750e0cdc162304d7e5878fcbb",
+          "items": 926993
         },
         "hosts": {
           "path": "public/hosts/adult_core.hosts",
           "exists": true,
-          "bytes": 14389523,
-          "sha256": "c8990d0a0ed96db0abd5d7eb283846fc1a2e93e4ec19388440da93de7aec97e0",
-          "items": 499122
+          "bytes": 25425935,
+          "sha256": "bdddfcb5f111f73c9c54452d87efa66cce21e3f5454990158c46100b9960becc",
+          "items": 926993
         },
         "titles": {
           "path": "public/titles/adult_core.txt",
           "exists": true,
-          "bytes": 85256,
-          "sha256": "92da4742b06d4dadce80bc9c2494791d98ba5ebe66e3eb5d73be1718646a109a",
+          "bytes": 85289,
+          "sha256": "16f09fc801cf492fd67de9e90b05aae2cd4e1427aee15b2a1a560bf77790b70f",
           "items": 4719
         },
         "keywords": {
@@ -87,8 +87,8 @@
         "url_patterns": {
           "path": "public/url_patterns/adult_core.txt",
           "exists": true,
-          "bytes": 978021,
-          "sha256": "c9d1d6ffceeb78de08c06799116e5b98f0df2be7a570f15677f095b0ecbfc646",
+          "bytes": 978216,
+          "sha256": "10a5e564160756cbf7b72c05a9bf96e87e6f8f17061aaef7f2934b13a1adcb2a",
           "items": 23585
         }
       }
@@ -124,9 +124,9 @@
         "titles": {
           "path": "public/titles/adult_extra_strict.txt",
           "exists": true,
-          "bytes": 1050,
-          "sha256": "dc05260c256a7555a40afa52eeedb2be07bdbf24f486dfd48fcee3795494cd09",
-          "items": 45
+          "bytes": 1899,
+          "sha256": "da93e8b9e809b9152a0cfa437e5b98a7a0c7fa4030ce49226bb89092b92ab872",
+          "items": 98
         },
         "keywords": {
           "path": "public/keywords/adult_extra_strict.txt",
@@ -138,9 +138,9 @@
         "url_patterns": {
           "path": "public/url_patterns/adult_extra_strict.txt",
           "exists": true,
-          "bytes": 10520,
-          "sha256": "8bd264bd2c4bf420bf18bd70adae0c5827240c12dc2024c58c3ff61229c716bf",
-          "items": 225
+          "bytes": 20989,
+          "sha256": "5bcbc0e722ec66c36e3dae5d437ae4b48fd0c5b3052bdde18c4eb0e1be664a55",
+          "items": 490
         }
       }
     },
@@ -251,45 +251,45 @@
       "path": "familyblocker_sources_report.tsv",
       "exists": true,
       "bytes": 629,
-      "sha256": "326d42e3e76094836d8adca83621a8ab79e98d8f9cafbb0b2189f7f5e5c4f363",
+      "sha256": "62af81adbf664d3250c60ce1387e82402c8dcbd7aab3e722c584fe941a77124a",
       "items": 5
     },
     "titles_sources": {
       "path": "blocked_titles_sources_report.tsv",
       "exists": true,
-      "bytes": 682,
-      "sha256": "30645a0236b3afa8d3aebac4576783c5a2daa9d08c368ec1bd468244938e55cc",
+      "bytes": 649,
+      "sha256": "df94d65845877653b14732a21a5300c80b24e2a1cefe60ce4fa139609a1ea1e9",
       "items": 8
     },
     "titles_by_category": {
       "path": "blocked_titles_by_category.tsv",
       "exists": true,
-      "bytes": 225261,
-      "sha256": "a79c1f2e16603b9ce526109be5064460e22e3c2a0a31fbd5b4dab09e0298f99f",
-      "items": 4875
+      "bytes": 228210,
+      "sha256": "318d38d7ceaa7cc462a427c71dc6dff8d445e1c54f90f0a3395a31c0148dde6d",
+      "items": 4928
     }
   },
   "backward_compatible_root_outputs": {
     "familyblocker_domains": {
       "path": "familyblocker_domains.txt",
       "exists": true,
-      "bytes": 10396547,
-      "sha256": "96a731c061db533143d5adfad9130cacab99cdc9dbdb8350f38e4a656a73c8be",
-      "items": 499122
+      "bytes": 18009991,
+      "sha256": "14da22cebb795876b746f9b896e69842b4c339f750e0cdc162304d7e5878fcbb",
+      "items": 926993
     },
     "familyblocker_hosts": {
       "path": "familyblocker_hosts.txt",
       "exists": true,
-      "bytes": 14389523,
-      "sha256": "c8990d0a0ed96db0abd5d7eb283846fc1a2e93e4ec19388440da93de7aec97e0",
-      "items": 499122
+      "bytes": 25425935,
+      "sha256": "bdddfcb5f111f73c9c54452d87efa66cce21e3f5454990158c46100b9960becc",
+      "items": 926993
     },
     "blocked_titles": {
       "path": "blocked_titles.txt",
       "exists": true,
-      "bytes": 88049,
-      "sha256": "26cbeee8dfa9989e824bc2c9e621f8d26105f633af0ee2cc286bed371482ec73",
-      "items": 4874
+      "bytes": 88917,
+      "sha256": "ad87b6cc1cdf942da1ddc39676719ce0917687fdf2b394b286673183d2937b97",
+      "items": 4925
     },
     "blocked_keywords": {
       "path": "blocked_keywords.txt",
@@ -301,9 +301,9 @@
     "generated_url_patterns": {
       "path": "generated_url_patterns.txt",
       "exists": true,
-      "bytes": 1029301,
-      "sha256": "5486584c381db570e177dc0472288e26e1ff60dd28df1823d2823b6e6cd6ac2b",
-      "items": 24810
+      "bytes": 1039659,
+      "sha256": "b4e0bf486a2ff01faa16d4c0890964f8f5f2d7ce9b5df44b55e9983e4a0d843e",
+      "items": 25065
     }
   }
 }
