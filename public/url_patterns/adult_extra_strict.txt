@@ -61,6 +61,7 @@
 *://*.bing.com/search*L*A*Zombie*
 *://*.bing.com/search*LA*Plays*Itself*
 *://*.bing.com/search*Lebanon*
+*://*.bing.com/search*Lesbian*Masseuse*5*
 *://*.bing.com/search*Lost*in*the*Hood*
 *://*.bing.com/search*Love*and*Lust*
 *://*.bing.com/search*Maraschino*Cherry*
@@ -70,6 +71,8 @@
 *://*.bing.com/search*Michael*Lucas*La*Dolce*Vita*
 *://*.bing.com/search*Mirage*
 *://*.bing.com/search*Moan*
+*://*.bing.com/search*Mother*Superior*
+*://*.bing.com/search*Mother*Superior*3*Satan*s*Daughter*
 *://*.bing.com/search*Muscle*Bear*Truck*Stop*
 *://*.bing.com/search*Nightmare*on*Lesbian*Street*
 *://*.bing.com/search*Nights*in*Black*Leather*
@@ -87,6 +90,7 @@
 *://*.bing.com/search*The*Fluffer*
 *://*.bing.com/search*The*House*of*Morecock*
 *://*.bing.com/search*The*Men*I*Wanted*
+*://*.bing.com/search*The*MILF*Masseuse*
 *://*.bing.com/search*The*Surprise*of*a*Knight*
 *://*.bing.com/search*Titwoman*Vs*Titwoman*
 *://*.bing.com/search*To*the*Last*Man*
@@ -159,6 +163,7 @@
 *://*.duckduckgo.com/*q=*L*A*Zombie*
 *://*.duckduckgo.com/*q=*LA*Plays*Itself*
 *://*.duckduckgo.com/*q=*Lebanon*
+*://*.duckduckgo.com/*q=*Lesbian*Masseuse*5*
 *://*.duckduckgo.com/*q=*Lost*in*the*Hood*
 *://*.duckduckgo.com/*q=*Love*and*Lust*
 *://*.duckduckgo.com/*q=*Maraschino*Cherry*
@@ -168,6 +173,8 @@
 *://*.duckduckgo.com/*q=*Michael*Lucas*La*Dolce*Vita*
 *://*.duckduckgo.com/*q=*Mirage*
 *://*.duckduckgo.com/*q=*Moan*
+*://*.duckduckgo.com/*q=*Mother*Superior*
+*://*.duckduckgo.com/*q=*Mother*Superior*3*Satan*s*Daughter*
 *://*.duckduckgo.com/*q=*Muscle*Bear*Truck*Stop*
 *://*.duckduckgo.com/*q=*Nightmare*on*Lesbian*Street*
 *://*.duckduckgo.com/*q=*Nights*in*Black*Leather*
@@ -185,6 +192,7 @@
 *://*.duckduckgo.com/*q=*The*Fluffer*
 *://*.duckduckgo.com/*q=*The*House*of*Morecock*
 *://*.duckduckgo.com/*q=*The*Men*I*Wanted*
+*://*.duckduckgo.com/*q=*The*MILF*Masseuse*
 *://*.duckduckgo.com/*q=*The*Surprise*of*a*Knight*
 *://*.duckduckgo.com/*q=*Titwoman*Vs*Titwoman*
 *://*.duckduckgo.com/*q=*To*the*Last*Man*
@@ -257,6 +265,7 @@
 *://*.google.*/*q=*L*A*Zombie*
 *://*.google.*/*q=*LA*Plays*Itself*
 *://*.google.*/*q=*Lebanon*
+*://*.google.*/*q=*Lesbian*Masseuse*5*
 *://*.google.*/*q=*Lost*in*the*Hood*
 *://*.google.*/*q=*Love*and*Lust*
 *://*.google.*/*q=*Maraschino*Cherry*
@@ -266,6 +275,8 @@
 *://*.google.*/*q=*Michael*Lucas*La*Dolce*Vita*
 *://*.google.*/*q=*Mirage*
 *://*.google.*/*q=*Moan*
+*://*.google.*/*q=*Mother*Superior*
+*://*.google.*/*q=*Mother*Superior*3*Satan*s*Daughter*
 *://*.google.*/*q=*Muscle*Bear*Truck*Stop*
 *://*.google.*/*q=*Nightmare*on*Lesbian*Street*
 *://*.google.*/*q=*Nights*in*Black*Leather*
@@ -283,6 +294,7 @@
 *://*.google.*/*q=*The*Fluffer*
 *://*.google.*/*q=*The*House*of*Morecock*
 *://*.google.*/*q=*The*Men*I*Wanted*
+*://*.google.*/*q=*The*MILF*Masseuse*
 *://*.google.*/*q=*The*Surprise*of*a*Knight*
 *://*.google.*/*q=*Titwoman*Vs*Titwoman*
 *://*.google.*/*q=*To*the*Last*Man*
@@ -355,6 +367,7 @@
 *://*.youtube.com/results*search_query=*L*A*Zombie*
 *://*.youtube.com/results*search_query=*LA*Plays*Itself*
 *://*.youtube.com/results*search_query=*Lebanon*
+*://*.youtube.com/results*search_query=*Lesbian*Masseuse*5*
 *://*.youtube.com/results*search_query=*Lost*in*the*Hood*
 *://*.youtube.com/results*search_query=*Love*and*Lust*
 *://*.youtube.com/results*search_query=*Maraschino*Cherry*
@@ -364,6 +377,8 @@
 *://*.youtube.com/results*search_query=*Michael*Lucas*La*Dolce*Vita*
 *://*.youtube.com/results*search_query=*Mirage*
 *://*.youtube.com/results*search_query=*Moan*
+*://*.youtube.com/results*search_query=*Mother*Superior*
+*://*.youtube.com/results*search_query=*Mother*Superior*3*Satan*s*Daughter*
 *://*.youtube.com/results*search_query=*Muscle*Bear*Truck*Stop*
 *://*.youtube.com/results*search_query=*Nightmare*on*Lesbian*Street*
 *://*.youtube.com/results*search_query=*Nights*in*Black*Leather*
@@ -381,6 +396,7 @@
 *://*.youtube.com/results*search_query=*The*Fluffer*
 *://*.youtube.com/results*search_query=*The*House*of*Morecock*
 *://*.youtube.com/results*search_query=*The*Men*I*Wanted*
+*://*.youtube.com/results*search_query=*The*MILF*Masseuse*
 *://*.youtube.com/results*search_query=*The*Surprise*of*a*Knight*
 *://*.youtube.com/results*search_query=*Titwoman*Vs*Titwoman*
 *://*.youtube.com/results*search_query=*To*the*Last*Man*
@@ -453,6 +469,7 @@
 *://*/*L*A*Zombie*
 *://*/*LA*Plays*Itself*
 *://*/*Lebanon*
+*://*/*Lesbian*Masseuse*5*
 *://*/*Lost*in*the*Hood*
 *://*/*Love*and*Lust*
 *://*/*Maraschino*Cherry*
@@ -462,6 +479,8 @@
 *://*/*Michael*Lucas*La*Dolce*Vita*
 *://*/*Mirage*
 *://*/*Moan*
+*://*/*Mother*Superior*
+*://*/*Mother*Superior*3*Satan*s*Daughter*
 *://*/*Muscle*Bear*Truck*Stop*
 *://*/*Nightmare*on*Lesbian*Street*
 *://*/*Nights*in*Black*Leather*
@@ -479,6 +498,7 @@
 *://*/*The*Fluffer*
 *://*/*The*House*of*Morecock*
 *://*/*The*Men*I*Wanted*
+*://*/*The*MILF*Masseuse*
 *://*/*The*Surprise*of*a*Knight*
 *://*/*Titwoman*Vs*Titwoman*
 *://*/*To*the*Last*Man*

@@ -1,5 +1,5 @@
 generated_utc	source_id	category_id	enabled	status	count	url_or_note
-2026-08-16T03:44:13Z	blocklistproject_porn	adult_core	1	ok	952029	https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
-2026-08-16T03:44:13Z	blocklistproject_adult	adult_extra_strict	1	fetch_failed	0	HTTPError: HTTP Error 404: Not Found
-2026-08-16T03:44:13Z	stevenblack_porn	adult_extra_strict	0	disabled	0	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
-2026-08-16T03:44:13Z	stevenblack_porn_only	adult_core	0	disabled	0	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
+2026-08-23T03:46:51Z	blocklistproject_porn	adult_core	1	ok	952029	https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
+2026-08-23T03:46:51Z	blocklistproject_adult	adult_extra_strict	1	fetch_failed	0	HTTPError: HTTP Error 404: Not Found
+2026-08-23T03:46:51Z	stevenblack_porn	adult_extra_strict	0	disabled	0	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
+2026-08-23T03:46:51Z	stevenblack_porn_only	adult_core	0	disabled	0	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
