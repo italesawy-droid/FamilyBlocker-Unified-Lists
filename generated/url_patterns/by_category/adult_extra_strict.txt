@@ -48,6 +48,9 @@
 *://*.bing.com/search*Girls*Kissing*Girls*8*
 *://*.bing.com/search*Girls*Kissing*Girls*9*
 *://*.bing.com/search*Girls*Kissing*Girls*Young*Lesbians*in*Love*
+*://*.bing.com/search*Girlvana*2*
+*://*.bing.com/search*Girlvana*3*
+*://*.bing.com/search*Girlvana*4*
 *://*.bing.com/search*Grunts*
 *://*.bing.com/search*Him*
 *://*.bing.com/search*Honorable*Discharge*
@@ -62,7 +65,7 @@
 *://*.bing.com/search*L*A*Zombie*
 *://*.bing.com/search*LA*Plays*Itself*
 *://*.bing.com/search*Lebanon*
-*://*.bing.com/search*Lesbian*Masseuse*5*
+*://*.bing.com/search*Lesbian*Massage*5*
 *://*.bing.com/search*Lost*in*the*Hood*
 *://*.bing.com/search*Love*and*Lust*
 *://*.bing.com/search*Maraschino*Cherry*
@@ -89,6 +92,7 @@
 *://*.bing.com/search*That*Dick*Taste*s*Like*Money*
 *://*.bing.com/search*The*Anchor*Hotel*
 *://*.bing.com/search*The*Fluffer*
+*://*.bing.com/search*The*Gift*
 *://*.bing.com/search*The*House*of*Morecock*
 *://*.bing.com/search*The*Men*I*Wanted*
 *://*.bing.com/search*The*MILF*Masseuse*
@@ -150,6 +154,9 @@
 *://*.duckduckgo.com/*q=*Girls*Kissing*Girls*8*
 *://*.duckduckgo.com/*q=*Girls*Kissing*Girls*9*
 *://*.duckduckgo.com/*q=*Girls*Kissing*Girls*Young*Lesbians*in*Love*
+*://*.duckduckgo.com/*q=*Girlvana*2*
+*://*.duckduckgo.com/*q=*Girlvana*3*
+*://*.duckduckgo.com/*q=*Girlvana*4*
 *://*.duckduckgo.com/*q=*Grunts*
 *://*.duckduckgo.com/*q=*Him*
 *://*.duckduckgo.com/*q=*Honorable*Discharge*
@@ -164,7 +171,7 @@
 *://*.duckduckgo.com/*q=*L*A*Zombie*
 *://*.duckduckgo.com/*q=*LA*Plays*Itself*
 *://*.duckduckgo.com/*q=*Lebanon*
-*://*.duckduckgo.com/*q=*Lesbian*Masseuse*5*
+*://*.duckduckgo.com/*q=*Lesbian*Massage*5*
 *://*.duckduckgo.com/*q=*Lost*in*the*Hood*
 *://*.duckduckgo.com/*q=*Love*and*Lust*
 *://*.duckduckgo.com/*q=*Maraschino*Cherry*
@@ -191,6 +198,7 @@
 *://*.duckduckgo.com/*q=*That*Dick*Taste*s*Like*Money*
 *://*.duckduckgo.com/*q=*The*Anchor*Hotel*
 *://*.duckduckgo.com/*q=*The*Fluffer*
+*://*.duckduckgo.com/*q=*The*Gift*
 *://*.duckduckgo.com/*q=*The*House*of*Morecock*
 *://*.duckduckgo.com/*q=*The*Men*I*Wanted*
 *://*.duckduckgo.com/*q=*The*MILF*Masseuse*
@@ -252,6 +260,9 @@
 *://*.google.*/*q=*Girls*Kissing*Girls*8*
 *://*.google.*/*q=*Girls*Kissing*Girls*9*
 *://*.google.*/*q=*Girls*Kissing*Girls*Young*Lesbians*in*Love*
+*://*.google.*/*q=*Girlvana*2*
+*://*.google.*/*q=*Girlvana*3*
+*://*.google.*/*q=*Girlvana*4*
 *://*.google.*/*q=*Grunts*
 *://*.google.*/*q=*Him*
 *://*.google.*/*q=*Honorable*Discharge*
@@ -266,7 +277,7 @@
 *://*.google.*/*q=*L*A*Zombie*
 *://*.google.*/*q=*LA*Plays*Itself*
 *://*.google.*/*q=*Lebanon*
-*://*.google.*/*q=*Lesbian*Masseuse*5*
+*://*.google.*/*q=*Lesbian*Massage*5*
 *://*.google.*/*q=*Lost*in*the*Hood*
 *://*.google.*/*q=*Love*and*Lust*
 *://*.google.*/*q=*Maraschino*Cherry*
@@ -293,6 +304,7 @@
 *://*.google.*/*q=*That*Dick*Taste*s*Like*Money*
 *://*.google.*/*q=*The*Anchor*Hotel*
 *://*.google.*/*q=*The*Fluffer*
+*://*.google.*/*q=*The*Gift*
 *://*.google.*/*q=*The*House*of*Morecock*
 *://*.google.*/*q=*The*Men*I*Wanted*
 *://*.google.*/*q=*The*MILF*Masseuse*
@@ -354,6 +366,9 @@
 *://*.youtube.com/results*search_query=*Girls*Kissing*Girls*8*
 *://*.youtube.com/results*search_query=*Girls*Kissing*Girls*9*
 *://*.youtube.com/results*search_query=*Girls*Kissing*Girls*Young*Lesbians*in*Love*
+*://*.youtube.com/results*search_query=*Girlvana*2*
+*://*.youtube.com/results*search_query=*Girlvana*3*
+*://*.youtube.com/results*search_query=*Girlvana*4*
 *://*.youtube.com/results*search_query=*Grunts*
 *://*.youtube.com/results*search_query=*Him*
 *://*.youtube.com/results*search_query=*Honorable*Discharge*
@@ -368,7 +383,7 @@
 *://*.youtube.com/results*search_query=*L*A*Zombie*
 *://*.youtube.com/results*search_query=*LA*Plays*Itself*
 *://*.youtube.com/results*search_query=*Lebanon*
-*://*.youtube.com/results*search_query=*Lesbian*Masseuse*5*
+*://*.youtube.com/results*search_query=*Lesbian*Massage*5*
 *://*.youtube.com/results*search_query=*Lost*in*the*Hood*
 *://*.youtube.com/results*search_query=*Love*and*Lust*
 *://*.youtube.com/results*search_query=*Maraschino*Cherry*
@@ -395,6 +410,7 @@
 *://*.youtube.com/results*search_query=*That*Dick*Taste*s*Like*Money*
 *://*.youtube.com/results*search_query=*The*Anchor*Hotel*
 *://*.youtube.com/results*search_query=*The*Fluffer*
+*://*.youtube.com/results*search_query=*The*Gift*
 *://*.youtube.com/results*search_query=*The*House*of*Morecock*
 *://*.youtube.com/results*search_query=*The*Men*I*Wanted*
 *://*.youtube.com/results*search_query=*The*MILF*Masseuse*
@@ -456,6 +472,9 @@
 *://*/*Girls*Kissing*Girls*8*
 *://*/*Girls*Kissing*Girls*9*
 *://*/*Girls*Kissing*Girls*Young*Lesbians*in*Love*
+*://*/*Girlvana*2*
+*://*/*Girlvana*3*
+*://*/*Girlvana*4*
 *://*/*Grunts*
 *://*/*Him*
 *://*/*Honorable*Discharge*
@@ -470,7 +489,7 @@
 *://*/*L*A*Zombie*
 *://*/*LA*Plays*Itself*
 *://*/*Lebanon*
-*://*/*Lesbian*Masseuse*5*
+*://*/*Lesbian*Massage*5*
 *://*/*Lost*in*the*Hood*
 *://*/*Love*and*Lust*
 *://*/*Maraschino*Cherry*
@@ -497,6 +516,7 @@
 *://*/*That*Dick*Taste*s*Like*Money*
 *://*/*The*Anchor*Hotel*
 *://*/*The*Fluffer*
+*://*/*The*Gift*
 *://*/*The*House*of*Morecock*
 *://*/*The*Men*I*Wanted*
 *://*/*The*MILF*Masseuse*
