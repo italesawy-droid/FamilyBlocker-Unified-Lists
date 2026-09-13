@@ -21,6 +21,7 @@
 *://*.bing.com/search*Dream*Team*
 *://*.bing.com/search*Echoes*
 *://*.bing.com/search*El*Paso*Wrecking*Corp*
+*://*.bing.com/search*Escape*from*Camp*Conversion*
 *://*.bing.com/search*Eyes*of*a*Stranger*
 *://*.bing.com/search*Frat*House*Cream*
 *://*.bing.com/search*Girls*Kissing*Girls*10*
@@ -97,6 +98,7 @@
 *://*.bing.com/search*The*Men*I*Wanted*
 *://*.bing.com/search*The*MILF*Masseuse*
 *://*.bing.com/search*The*Surprise*of*a*Knight*
+*://*.bing.com/search*The*Violation*of*Jessica*Darlin*
 *://*.bing.com/search*Titwoman*Vs*Titwoman*
 *://*.bing.com/search*To*the*Last*Man*
 *://*.bing.com/search*Total*Corruption*
@@ -127,6 +129,7 @@
 *://*.duckduckgo.com/*q=*Dream*Team*
 *://*.duckduckgo.com/*q=*Echoes*
 *://*.duckduckgo.com/*q=*El*Paso*Wrecking*Corp*
+*://*.duckduckgo.com/*q=*Escape*from*Camp*Conversion*
 *://*.duckduckgo.com/*q=*Eyes*of*a*Stranger*
 *://*.duckduckgo.com/*q=*Frat*House*Cream*
 *://*.duckduckgo.com/*q=*Girls*Kissing*Girls*10*
@@ -203,6 +206,7 @@
 *://*.duckduckgo.com/*q=*The*Men*I*Wanted*
 *://*.duckduckgo.com/*q=*The*MILF*Masseuse*
 *://*.duckduckgo.com/*q=*The*Surprise*of*a*Knight*
+*://*.duckduckgo.com/*q=*The*Violation*of*Jessica*Darlin*
 *://*.duckduckgo.com/*q=*Titwoman*Vs*Titwoman*
 *://*.duckduckgo.com/*q=*To*the*Last*Man*
 *://*.duckduckgo.com/*q=*Total*Corruption*
@@ -233,6 +237,7 @@
 *://*.google.*/*q=*Dream*Team*
 *://*.google.*/*q=*Echoes*
 *://*.google.*/*q=*El*Paso*Wrecking*Corp*
+*://*.google.*/*q=*Escape*from*Camp*Conversion*
 *://*.google.*/*q=*Eyes*of*a*Stranger*
 *://*.google.*/*q=*Frat*House*Cream*
 *://*.google.*/*q=*Girls*Kissing*Girls*10*
@@ -309,6 +314,7 @@
 *://*.google.*/*q=*The*Men*I*Wanted*
 *://*.google.*/*q=*The*MILF*Masseuse*
 *://*.google.*/*q=*The*Surprise*of*a*Knight*
+*://*.google.*/*q=*The*Violation*of*Jessica*Darlin*
 *://*.google.*/*q=*Titwoman*Vs*Titwoman*
 *://*.google.*/*q=*To*the*Last*Man*
 *://*.google.*/*q=*Total*Corruption*
@@ -339,6 +345,7 @@
 *://*.youtube.com/results*search_query=*Dream*Team*
 *://*.youtube.com/results*search_query=*Echoes*
 *://*.youtube.com/results*search_query=*El*Paso*Wrecking*Corp*
+*://*.youtube.com/results*search_query=*Escape*from*Camp*Conversion*
 *://*.youtube.com/results*search_query=*Eyes*of*a*Stranger*
 *://*.youtube.com/results*search_query=*Frat*House*Cream*
 *://*.youtube.com/results*search_query=*Girls*Kissing*Girls*10*
@@ -415,6 +422,7 @@
 *://*.youtube.com/results*search_query=*The*Men*I*Wanted*
 *://*.youtube.com/results*search_query=*The*MILF*Masseuse*
 *://*.youtube.com/results*search_query=*The*Surprise*of*a*Knight*
+*://*.youtube.com/results*search_query=*The*Violation*of*Jessica*Darlin*
 *://*.youtube.com/results*search_query=*Titwoman*Vs*Titwoman*
 *://*.youtube.com/results*search_query=*To*the*Last*Man*
 *://*.youtube.com/results*search_query=*Total*Corruption*
@@ -445,6 +453,7 @@
 *://*/*Dream*Team*
 *://*/*Echoes*
 *://*/*El*Paso*Wrecking*Corp*
+*://*/*Escape*from*Camp*Conversion*
 *://*/*Eyes*of*a*Stranger*
 *://*/*Frat*House*Cream*
 *://*/*Girls*Kissing*Girls*10*
@@ -521,6 +530,7 @@
 *://*/*The*Men*I*Wanted*
 *://*/*The*MILF*Masseuse*
 *://*/*The*Surprise*of*a*Knight*
+*://*/*The*Violation*of*Jessica*Darlin*
 *://*/*Titwoman*Vs*Titwoman*
 *://*/*To*the*Last*Man*
 *://*/*Total*Corruption*

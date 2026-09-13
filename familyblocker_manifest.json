@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "FamilyBlockerUnified",
-  "generated_utc": "2026-09-06T07:34:51Z",
+  "generated_utc": "2026-09-13T07:58:38Z",
   "client_note_ar": "استخدم هذا الملف في برنامج ويندوز لعرض التصنيفات كـ CheckBox ثم تحميل الملفات النسبية المطلوبة فقط.",
   "paths_are_relative_to_repo_root": true,
   "all_files": {
@@ -22,9 +22,9 @@
     "titles": {
       "path": "public/titles_all.txt",
       "exists": true,
-      "bytes": 88757,
-      "sha256": "1372110bf99ae38d5f5e6017597c6b2e2d6d7457c7536aeabda10565a00c3824",
-      "items": 4930
+      "bytes": 89522,
+      "sha256": "20840ce20e6c1d5f0e7475598ea1830371272aac885baf48ab1ec76d3700e57d",
+      "items": 4929
     },
     "keywords": {
       "path": "public/keywords_all.txt",
@@ -36,9 +36,9 @@
     "url_patterns": {
       "path": "public/url_patterns_all.txt",
       "exists": true,
-      "bytes": 1039464,
-      "sha256": "fbfca89bcd823f419ffaee3de64a9973ddff5ebaa678a54903b43ef0ac08a52f",
-      "items": 25090
+      "bytes": 1043081,
+      "sha256": "c0400b316db8f66a5d3419ae7345426d8359899263327365b66e6c5edf416cbe",
+      "items": 25085
     }
   },
   "categories": [
@@ -73,9 +73,9 @@
         "titles": {
           "path": "public/titles/adult_core.txt",
           "exists": true,
-          "bytes": 84999,
-          "sha256": "70f5e806ea194439cfd78a242d2a82a2d86bd6e69b209792b4289effe5ea9d0b",
-          "items": 4716
+          "bytes": 85704,
+          "sha256": "7d3e80a529c40d4d262f768d7649ca1e4d535d040ccb4477577cd95d729cb1db",
+          "items": 4713
         },
         "keywords": {
           "path": "public/keywords/adult_core.txt",
@@ -87,9 +87,9 @@
         "url_patterns": {
           "path": "public/url_patterns/adult_core.txt",
           "exists": true,
-          "bytes": 976432,
-          "sha256": "4c78af3c9cf3ebaf89889bb4c56f247d9c875b2c7dd92f8ef543e39b8fa77aa5",
-          "items": 23570
+          "bytes": 979513,
+          "sha256": "730c6d77998401ef8da2719cb6b8f367061bd52e38021fd3e69746f2b4eba23e",
+          "items": 23555
         }
       }
     },
@@ -124,9 +124,9 @@
         "titles": {
           "path": "public/titles/adult_extra_strict.txt",
           "exists": true,
-          "bytes": 2029,
-          "sha256": "9300a4dbb4f87cfa0b352592125909e7dc2d460aba515370b93ac06147db29c5",
-          "items": 106
+          "bytes": 2089,
+          "sha256": "2d84aeb87dfc3d4d6c1fd557d89c44020d6f86240752bd042f6587faf933bc49",
+          "items": 108
         },
         "keywords": {
           "path": "public/keywords/adult_extra_strict.txt",
@@ -138,9 +138,9 @@
         "url_patterns": {
           "path": "public/url_patterns/adult_extra_strict.txt",
           "exists": true,
-          "bytes": 22578,
-          "sha256": "b6ffabc60821916f9248c1a23a1f7a8fdabb749dd0f53268986a4a32f83a4bb7",
-          "items": 530
+          "bytes": 23114,
+          "sha256": "1a5e775d7f50792857f8abc24613c4ace06b51ae366b542303e40d2670b5fe32",
+          "items": 540
         }
       }
     },
@@ -251,22 +251,22 @@
       "path": "familyblocker_sources_report.tsv",
       "exists": true,
       "bytes": 629,
-      "sha256": "0054b6ca027f6481aaa50d54a918e8dcb4641fb0774be32aad65521a8a4bfc27",
+      "sha256": "8ade8a41f8598e504e9b170099cdb7742fe84ff5e5a69901afa2f123af3b1b30",
       "items": 5
     },
     "titles_sources": {
       "path": "blocked_titles_sources_report.tsv",
       "exists": true,
       "bytes": 649,
-      "sha256": "f328ecd22a95cd011944fc21164ca22656fed04fbfe91f320a75484144c9dea9",
+      "sha256": "e70f358f6391269edcb0692e9ce80e671343d3324bfb43a5300c8978ac5db7eb",
       "items": 8
     },
     "titles_by_category": {
       "path": "blocked_titles_by_category.tsv",
       "exists": true,
-      "bytes": 228278,
-      "sha256": "bb11a0c5565b72fe93ec5af1a9143e322f7050489fd7544e083892522a0768a5",
-      "items": 4933
+      "bytes": 229037,
+      "sha256": "b537aa32139d364dd4d1bf4ef6a0cc64bc45a49308c774a0919a4373f899c4f7",
+      "items": 4932
     }
   },
   "backward_compatible_root_outputs": {
@@ -287,9 +287,9 @@
     "blocked_titles": {
       "path": "blocked_titles.txt",
       "exists": true,
-      "bytes": 88757,
-      "sha256": "1372110bf99ae38d5f5e6017597c6b2e2d6d7457c7536aeabda10565a00c3824",
-      "items": 4930
+      "bytes": 89522,
+      "sha256": "20840ce20e6c1d5f0e7475598ea1830371272aac885baf48ab1ec76d3700e57d",
+      "items": 4929
     },
     "blocked_keywords": {
       "path": "blocked_keywords.txt",
@@ -301,9 +301,9 @@
     "generated_url_patterns": {
       "path": "generated_url_patterns.txt",
       "exists": true,
-      "bytes": 1039464,
-      "sha256": "fbfca89bcd823f419ffaee3de64a9973ddff5ebaa678a54903b43ef0ac08a52f",
-      "items": 25090
+      "bytes": 1043081,
+      "sha256": "c0400b316db8f66a5d3419ae7345426d8359899263327365b66e6c5edf416cbe",
+      "items": 25085
     }
   }
 }
