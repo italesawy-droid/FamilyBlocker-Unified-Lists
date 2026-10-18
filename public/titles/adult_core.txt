@@ -78,7 +78,7 @@
 6 dni strusia
 7 From Etheria
 7aum Arivu
-964 Pinocchio
+977
 A Beautiful Star
 A Big Grey-Blue Bird
 A Blind Bargain
@@ -104,11 +104,11 @@ A Nymphoid Barbarian in Dinosaur Hell
 A Quiet Place
 A Rough Draft
 A Scanner Darkly
+A Shaun the Sheep Movie: Farmageddon
 A Sound of Thunder
 A Thousand Kisses Deep
 A Ticket to Space
 A Trip to Jupiter
-A Trip to Mars
 A Trip to the Moon
 A Visitor to a Museum
 A Werewolf Boy
@@ -121,7 +121,6 @@ A*P*E
 A.I. Artificial Intelligence
 A.I. Rising
 A.LI.CE
-A.M.I.
 A.P.E.X.
 A.X.L.
 Aa Dekhen Zara
@@ -159,16 +158,15 @@ AE: Apocalypse Earth
 Aelita
 Aerial Anarchists
 Aerials
+Aero NT-54
 Aerograd
 Afraid
 After Blue (Dirty Paradise)
-After Darkness
 After Death
 After Earth
 After Rabbit
 After the Apocalypse
 After the Dark
-After Yang
 AfterDeath
 Aftermath: Population Zero
 Afuera del tiempo
@@ -185,6 +183,7 @@ Ainoa
 Air Doll
 Air Hawks
 Airlock, or How to Say Goodbye in Space
+Airplane II: The Sequel
 Ajin
 Akhil
 Akira
@@ -194,6 +193,7 @@ Alice's Birthday
 Alien
 Alien 3
 Alien Abduction
+Alien Addiction
 Alien Agent
 Alien Arsenal
 Alien Autopsy
@@ -220,7 +220,6 @@ Alien Private Eye
 Alien Raiders
 Alien Resurrection
 Alien Seed
-Alien Siege
 Alien Space Avenger
 Alien Species
 Alien Terminator
@@ -250,6 +249,7 @@ Alienator
 Alienoid
 Alienoid 2
 Aliens
+Aliens Abducted My Parents and Now I Feel Kinda Left Out
 Aliens in the Attic
 Aliens in the Wild, Wild West
 Aliens on the Moon: The Truth Exposed
@@ -258,7 +258,6 @@ Aliens vs. Predator: Requiem
 Aliens: Zone of Silence
 Alita: Battle Angel
 Alive in Joburg
-All Esper Dayo! SP
 All Monsters Attack
 All Superheroes Must Die
 All Tomorrow's Parties
@@ -267,6 +266,7 @@ Allegro
 Alligator
 Alligator II – The Mutation
 Almost Human
+Alone in Space
 Alone in the Dark
 Alpha Code
 Alpha Gang
@@ -291,6 +291,7 @@ Amphibian Man
 An American Hippie in Israel
 An Imperfect Solution: A Tale of the Re-Animator
 And You Thought Your Parents Were Weird
+Andover
 Android
 Android Apocalypse
 Android Cop
@@ -324,6 +325,8 @@ Ant-Man
 Ant-Man and the Wasp
 Ant-Man and the Wasp: Quantumania
 Antaramasa
+Antariksham 9000 KMPH
+Antarjal
 Anti-Clock
 Antibirth
 Antibody
@@ -355,10 +358,10 @@ Arañas Infernales
 Arcade
 Arcadia of My Youth
 Archive
-Arco
 Arctic Void
 Area 51
 Area Q
+Areal 618 – De forviste
 Arei no Kagami
 Arena
 Ares III: Refocused
@@ -419,12 +422,14 @@ Attack of the Giant Leeches
 Attack of the Killer Tomatoes
 Attack of the Moon Zombies
 Attack of the Puppet People
+Attack of the Robots
 Attack of the Sabretooth
 Attack on Titan: The Roar of Awakening
 Attack the Block
 Attacks from the Future: Rinoplasticos
 Attraction
 Auf Nummer sicher?
+August Eighth
 Aura
 Aurora: Operation Intercept
 Automania 2000
@@ -446,7 +451,6 @@ Avengers: Secret Wars
 Aversion
 AVH: Alien vs. Hunter
 Awake
-Aztech
 Azusa, Otetsudai Shimasu!
 Ba'al: The Storm God
 Babičky dobíjejte přesně!
@@ -461,8 +465,6 @@ Back to the Future
 Back to the Future Part II
 Back to the Future Part III
 Back to the Future: The Ride
-Back to the Past
-Bacurau
 Bad Channels
 Bad Girls from Mars
 Badi
@@ -475,6 +477,7 @@ Baracca e burattini
 Barb Wire
 Barbarella
 Barney In Outer Space
+Barrier of the Unknown
 Batang X
 Batman & Mr. Freeze: SubZero
 Batman & Robin
@@ -496,6 +499,7 @@ Batteries Not Included
 Battle at Big Rock
 Battle Beyond the Stars
 Battle Beyond the Sun
+Battle for Pandora
 Battle for Terra
 Battle for the Planet of the Apes
 Battle in Outer Space
@@ -526,13 +530,13 @@ Behemoth, the Sea Monster
 Bela Lugosi Meets a Brooklyn Gorilla
 Belaban Hidup: Infeksi Zombie
 Belle
+Bem no Meio do Céu
 Ben 10: Destroy All Aliens
 Ben 10: Secret of the Omnitrix
 Beneath the Planet of the Apes
 Beowulf
 Bermuda Triangle
 Bermuda: Cave of the Sharks
-Best Friend
 Besuch bei Van Gogh
 Between the Moon and Montevideo
 Beware! The Blob
@@ -541,6 +545,7 @@ Beyond
 Beyond Inclusion
 Beyond Re-Animator
 Beyond Skyline
+Beyond Stars - Part One
 Beyond the Black Rainbow
 Beyond the Edge
 Beyond the Sky
@@ -556,11 +561,13 @@ Big Meat Eater
 Big Wars
 BigBug
 Bigfoot
+Bigfoot Wars
 Biggles
 Bikini Planet
 Bill & Ted Face the Music
 Bill & Ted's Bogus Journey
 Bill & Ted's Excellent Adventure
+Bill, the Galactic Hero
 Billy Frankenstein
 Bio Hunter
 Biohazard: The Alien Force
@@ -579,7 +586,6 @@ Black Dragons
 Black Friday
 Black Friday!
 Black Hole
-Black Holes
 Black Hunters
 Black Jack
 Black Knight
@@ -590,7 +596,6 @@ Black Moon
 Black Moon Rising
 Black Panther
 Black Sheep
-Black Star and the Golden Bat
 Black Widow
 Blackadder: Back & Forth
 Blackbirds at Bangpleng
@@ -609,6 +614,7 @@ Bliss
 Blood Circus
 Blood of the Beast
 BloodRayne: The Third Reich
+Bloodshot
 Bloodsuckers
 Blubberella
 Blue Christmas
@@ -657,6 +663,7 @@ Brazil
 Breakfast of Champions
 Breathe
 Breeders
+Brian and Charles
 Brick Bradford
 Bride of Frankenstein
 Bride of Re-Animator
@@ -704,7 +711,6 @@ Captain America
 Captain America: Brave New World
 Captain America: The First Avenger
 Captain America: The Winter Soldier
-Captain Avispa
 Captain Cosmotic
 Captain Eager and the Mark of Voth
 Captain EO
@@ -737,6 +743,7 @@ Chameleon
 Chameleon 3: Dark Angel
 Chameleon II: Death Match
 Chance
+Chand Par Chadayee
 Change of Mind
 Chaos Walking
 Chappie
@@ -771,7 +778,6 @@ Ciao marziano
 Cinderella 2000
 Circuitry Man
 Citizen Toxie: The Toxic Avenger IV
-City Beneath the Sea
 City Limits
 City of Ember
 City Under Siege
@@ -803,7 +809,6 @@ Code 8
 Code 8: Part II
 Code Geass: Lelouch of the Resurrection
 Code Name Phoenix
-Codename: Kids Next Door: Operation: I.N.T.E.R.V.I.E.W.S.
 Codename: Kids Next Door: Operation: Z.E.R.O.
 Coherence
 Cold Harvest
@@ -811,7 +816,6 @@ Cold Skin
 Cold Storage
 Collective Invention
 Collider
-Color Out of Space
 Colossal
 Colossus: The Forbin Project
 COMA
@@ -827,7 +831,6 @@ Congo
 Connected
 Connors' War
 Conquest
-Conquest of Space
 Conquest of the Earth
 Conquest of the Planet of the Apes
 Conquistador de la luna
@@ -837,7 +840,6 @@ Control
 Control Factor
 Coping with Cupid
 Cosmic Princess
-Cosmic Rescue The Moonlight Generations
 Cosmic Slop
 Cosmoball
 Cosmodrama
@@ -851,6 +853,8 @@ Cowboy Bebop: The Movie
 Cowboys & Aliens
 Což takhle dát si špenát
 Crack in the World
+Crash 2030
+Crash and Burn
 Crash of the Moons
 Crater
 Crawler
@@ -909,7 +913,6 @@ Cyclops
 Cypher
 D.A.R.Y.L.
 D.N.A.: Decisamente non adatti
-Daedalus
 Daemonium: Soldier of the Underworld
 Daft Punk's Electroma
 Daijōbu, My Friend
@@ -934,7 +937,6 @@ Dark Soldier D
 Dark Space
 Dark Star
 Dark Storm
-Dark Sun
 Dark Universe
 Dark Vengeance
 Dark World
@@ -951,6 +953,7 @@ Dasavathaaram
 Dawn of the Dead
 Dawn of the Planet of the Apes
 Day of Destiny
+Day of the Animals
 Day of the Comet
 Day of the Dead
 Day of the Dead 2: Contagium
@@ -975,7 +978,6 @@ Dead Space: Aftermath
 Dead Space: Downfall
 Dead Weekend
 Deadland
-Deadly Eyes
 Deadly Friend
 Deadly Harvest
 Deadly Skies
@@ -1013,7 +1015,6 @@ Deep Evil
 Deep Freeze
 Deep Impact
 Deep Rising
-Deep Sea Monster Raiga
 Deep Shock
 Deep Space
 DeepStar Six
@@ -1063,6 +1064,7 @@ Digital Devil Story: Megami Tensei
 Dih
 Dimension 5
 Dimensions
+Diminuendo
 Dinner for Adele
 Dinocroc
 Dinocroc vs. Supergator
@@ -1087,7 +1089,6 @@ Diya Aur Toofan
 DNA
 Doctor of Doom
 Doctor Strange
-Doctor Strange in the Multiverse of Madness
 Doctor Who
 Doctor X
 Doghouse
@@ -1116,7 +1117,6 @@ Doraemon: Nobita and the Green Giant Legend
 Doraemon: Nobita and the New Steel Troops—Winged Angels
 Doraemon: Nobita and the Spiral City
 Doraemon: Nobita and the Windmasters
-Doraemon: Nobita's Art World Tales
 Doraemon: Nobita's Dorabian Nights
 Doraemon: Nobita's Sky Utopia
 Dospěláci můžou všechno
@@ -1171,8 +1171,8 @@ Dual
 Duck Dodgers in the 24½th Century
 Dune
 Dune Drifter
-Dune: Part Three
 Dune: Part Two
+Duplicates
 Dust
 Dæmos Rising
 Déjà Vu
@@ -1237,6 +1237,7 @@ Equals
 Equilibrium
 Equinozio
 Eraser Children
+Error 102
 Errors of the Human Body
 Escape from Galaxy 3
 Escape from L.A.
@@ -1250,7 +1251,6 @@ Escapement
 ESPY
 Eternal Sunshine of the Spotless Mind
 Eternals
-Eternity
 Euphoria
 Europa Report
 Eva
@@ -1271,6 +1271,7 @@ Ewoks: The Battle for Endor
 Ex Machina
 Excursion to the Moon
 Existenz
+Existir
 Exit
 Exo-Man
 Expect No Mercy
@@ -1284,7 +1285,6 @@ Extraterrestrial
 Extraña invasión
 Eyeborgs
 Eyes Behind the Stars
-Eyes in the Trees
 Eyes of Laura Mars
 F. P. 1 antwortet nicht
 F.P.1
@@ -1315,7 +1315,6 @@ Fetching Cody
 Fever abduction
 Fiend Without a Face
 Fifteen Children Space Adventure
-File Under Miscellaneous
 Filibus
 Final
 Final Approach
@@ -1325,6 +1324,7 @@ Final Fantasy: The Spirits Within
 Final Shot
 Final Target
 Final Yamato
+Finch
 Fingernails
 Fire in the Sky
 Fire Maidens from Outer Space
@@ -1348,6 +1348,7 @@ Flash Gordon
 Flash Gordon Conquers the Universe
 Flash Gordon's Trip to Mars
 Flash Gordon: The Greatest Adventure of All
+Flashes
 Flashman
 Flatland
 Flatliners
@@ -1373,6 +1374,7 @@ Forbidden Planet
 Forbidden World
 Foreboding
 Forever Young
+Forsaken
 Fortress
 Fortress 2: Re-Entry
 Four Sided Triangle
@@ -1429,6 +1431,7 @@ Futurama: Bender's Big Score
 Futurama: Bender's Game
 Futurama: Into the Wild Green Yonder
 Futurama: The Beast with a Billion Backs
+Future '38
 Future Cops
 Future Fear
 Future Force
@@ -1535,6 +1538,7 @@ Godzilla vs. Destoroyah
 Godzilla vs. Gigan
 Godzilla vs. Hedorah
 Godzilla vs. King Ghidorah
+Godzilla vs. Kong
 Godzilla vs. Mechagodzilla
 Godzilla vs. Mechagodzilla II
 Godzilla vs. Megaguirus
@@ -1549,6 +1553,7 @@ Godzilla: City on the Edge of Battle
 Godzilla: Final Wars
 Godzilla: King of the Monsters
 Godzilla: Planet of the Monsters
+Godzilla: The Planet Eater
 Godzilla: Tokyo S.O.S.
 Gog
 Goke, Body Snatcher from Hell
@@ -1565,7 +1570,6 @@ Gorgo
 Gosenzo-sama Banbanzai!
 Gothicmade
 Grabbers
-Graduation Afternoon
 Graveyard Shift
 Gravity
 Great Mazinger vs. Getter Robo
@@ -1579,6 +1583,7 @@ Grindhouse
 Groom Lake
 Groundhog Day
 Gryphon
+Gröna gubbar från Y.R.
 Guardians
 Guardians of the Galaxy
 Guardians of the Galaxy Vol. 2
@@ -1651,7 +1656,6 @@ Hellraiser: Bloodline
 Her
 Herbert West: Re-Animator
 Here We Go Again, Rubinot!
-Hermetica Komhata HK320
 Het leven uit een dag
 Hibernatus
 Hidden Reserves
@@ -1664,6 +1668,7 @@ Highlander III: The Sorcerer
 Himmelskibet
 Hinokio
 Hirokin
+His Master's Voice
 His Name Was Robert
 Hobgoblins 2
 HOGIRARA
@@ -1682,9 +1687,7 @@ Honey, We Shrunk Ourselves
 Hong Kong Will Be Destroyed After 33 Years
 Hooked on the Game
 Hope
-Hoppers
 Horizon
-Hornet
 Horror Express
 Horror in the Wind
 Horror Vision
@@ -1714,6 +1717,7 @@ Hulk: Where Monsters Dwell
 Human Lost
 Humanity's End
 Humanoids from the Deep
+Humans and Dolphins
 Hungerford
 Hungry for you
 Hunter Prey
@@ -1723,7 +1727,9 @@ Hyperfutura
 Hyperland
 Hypersleep
 Hypnotic
+I Am Mother
 I Am Omega
+I Am the Doorway
 I Come in Peace
 I Eat Your Skin
 I Killed Einstein, Gentlemen
@@ -1733,7 +1739,6 @@ I Married a Monster from Outer Space
 I Origins
 I Think We're Alone Now
 I viaggiatori della sera
-I Wake Up Yesterday
 I Was a Satellite of the Sun
 I Was a Zombie for the F.B.I.
 I Worship His Shadow
@@ -1772,6 +1777,7 @@ Impostor
 Impulse
 In Like Flint
 In the Back of the Classroom
+In the Blink of an Eye
 In the Cloud
 In the Country of Last Things
 In the Dust of the Stars
@@ -1792,7 +1798,6 @@ Indigo Grey: The Passage
 Infected
 Infested
 Infini
-Infinite
 Infinity Baby
 Infinity Chamber
 Infinity Pool
@@ -1803,7 +1808,6 @@ Inquest of Pilot Pirx
 Inseminoid
 Inspector Gadget's Last Case
 Interceptor Force 2
-Interface
 Interstella 5555: The 5tory of the 5ecret 5tar 5ystem
 Interstellar
 Interstellar War
@@ -1827,7 +1831,6 @@ Invasion of the Neptune Men
 Invasion of the Not Quite Dead
 Invasion of the Pod People
 Invasion of the Robot Dinosaurs
-Invasion of the Saucer Men
 Invasion Roswell
 Invasion U.S.A.
 Invasion: UFO
@@ -1841,6 +1844,7 @@ Irkutz 88
 Iron Girl
 Iron Girl: Ultimate Weapon
 Iron Invader
+Iron Lung
 Iron Man 2
 Iron Man 3
 Iron Man: Rise of Technovore
@@ -1883,6 +1887,7 @@ Jaws 2
 Jaws in Japan
 Je Suis Auto
 Je t'aime, je t'aime
+Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation
 Jekyll and Hyde... Together Again
 Jem and the Holograms
 Jersey Shore Shark Attack
@@ -1893,10 +1898,10 @@ Jingle Jangle: A Christmas Journey
 JLA Adventures: Trapped in Time
 Joey
 John Carter
-John Vardar vs the Galaxy
 Johnny Mnemonic
 Joker
 Jole Jongole
+Jonathan
 Journey 2: The Mysterious Island
 Journey to Saturn
 Journey to the Beginning of Time
@@ -1920,7 +1925,6 @@ Jungle Woman
 Junior
 Junk Head
 Junk Love
-Jupiter Ascending
 Jurassic City
 Jurassic Domination
 Jurassic Park
@@ -1934,7 +1938,6 @@ Jurassic World Rebirth
 Jurassic World: Fallen Kingdom
 Just Imagine
 Just Visiting
-Justice Is Mind
 Justice League
 Justice League Adventures: Trapped In Time
 Justice League Part Two
@@ -1946,7 +1949,6 @@ Justice League: The New Frontier
 Justice League: War
 Justice Society: World War II
 Juvenile
-K-9000
 K-PAX
 Kaadu
 Kaboom
@@ -1954,7 +1956,6 @@ Kaena: The Prophecy
 Kal Kissne Dekha
 Kalai Arasi
 Kalki 2898 AD
-Kam zmizel kuryr
 Kamen Rider Den-O: I'm Born!
 Kamen Rider Reiwa The First Generation
 Kamen Rider vs. Ambassador Hell
@@ -1965,8 +1966,10 @@ Kamikaze
 Kamikaze 1989
 Kamillions
 Karate Cop
+Karmalink
 Karutha Rathrikal
 Kate & Leopold
+Katuwira, donde nacen y mueren los sueños
 Keeping Track
 Kenny Begins
 Keroro Gunsō the Super Movie
@@ -1993,12 +1996,12 @@ King Kong Escapes
 King Kong Lives
 King Kong vs. Godzilla
 King Kong: 360 3-D
+King of Snake
 King of the Rocket Men
 Kingdom of the Planet of the Apes
 Kingdom of the Spiders
 Kingsglaive: Final Fantasy XV
 Kiss Me Deadly
-Klara and the Sun
 Knight Rider 2000
 Knightriders
 Knights
@@ -2037,7 +2040,6 @@ La Belle Verte
 La bestia nello spazio
 La casa del terror
 La Folie du Docteur Tube
-La fórmula del doctor Funes
 La hora incógnita
 La invasión de los muertos
 La Isla misteriosa y el capitán Nemo
@@ -2052,7 +2054,6 @@ La venganza de Huracán Ramírez
 La Venganza del sexo
 La Verda Stelulo
 Laal Paree
-Laboratory Conditions
 Lajka
 Lake Placid
 Lake Placid 2
@@ -2072,15 +2073,12 @@ Laserhawk
 Last and First Men
 Last Exit to Earth
 Last Flight of the Cosmonaut
-Last Love
 Last Man Down
 Last Night
 Last Order: Final Fantasy VII
 Last Woman on Earth
 Last Words
-Late August at the Hotel Ozone
 Late for Dinner
-Lathe of Heaven
 Latitude Zero
 Lavalantula
 Lawnmower Man 2: Beyond Cyberspace
@@ -2101,11 +2099,10 @@ Lensman
 Leprechaun 4: In Space
 Leroy & Stitch
 Les Créatures
-Les Frenchmen, les premiers super-héros français
 Les soleils de l'île de Pâques
-Lesbian Space Princess
 Let Sleeping Corpses Lie
 Let Us In
+Let's Be Evil
 Lethal Target
 Level Up
 Leviathan
@@ -2117,10 +2114,7 @@ Lifeforce
 Lifeform
 Lifepod
 Lifted
-Light and the Sufferer
 Light Blast
-Lightning Field
-Lightspeed
 Lightyear
 Lilac Ball
 Lilith und Ly
@@ -2131,21 +2125,19 @@ Limitless
 Link
 Linoleum
 Lipton Cockton in the Shadows of Sodoma
-Liquid Dreams
 Liquid Sky
 Little Bigfoot 2: The Journey Home
 Little Canned Men
-Little Fish
 Little Joe
 Little Orbit the Astrodog and the Screechers from Outer Space
 Little Shop of Horrors
 Live Freaky! Die Freaky!
 Lobster Man from Mars
 Loch Ness Terror
-Locke the Superman
 Lockout
 Locusts: The 8th Plague
 Logan
+Logan's Run
 Lolita 2000
 Lone Wolf
 Long Distance
@@ -2184,6 +2176,7 @@ Lunopolis
 Lur eta Amets
 M.M.P.R.
 M3GAN
+M3GAN 2.0
 Maanga
 Maattrraan
 Mac and Me
@@ -2196,14 +2189,15 @@ Mad Max: Fury Road
 Mad Max: The Wasteland
 Mad Monster Party
 Madame Sin
+Madder Isle
 Madrid in the Year 2000
 Mafia: The Game of Survival
 Magkasangga 2000
 Magma: Volcanic Disaster
-Make a Girl
 Maken Liner-0011 Henshin Seyo!
 Making Mr. Right
 Mako: The Jaws of Death
+Makuko
 Malevil
 Malibu Shark Attack
 Malice@Doll
@@ -2212,7 +2206,6 @@ Man Down
 Man Facing Southeast
 Man in Outer Space
 Man in the Box
-Man in the Moon
 Man Made Monster
 Man of Steel
 Man Underground
@@ -2221,7 +2214,7 @@ Man with the Transplanted Brain
 Man with Two Lives
 Man's Best Friend
 Man-Thing
-Manborg
+Mandao of the Dead
 Mandrake
 Mandroid
 Maneater
@@ -2262,7 +2255,6 @@ Max Winslow and the House of Secrets
 Maximum Overdrive
 Maximum Ride
 Maximum Shame
-May the 12th Be with You
 Maya and the Starboy
 Maya Manithan
 Mayavan
@@ -2291,7 +2283,6 @@ Megalodon
 Megalodon Rising
 Megalopolis
 Megamind
-Megamind vs. the Doom Syndicate
 Megamind: The Button of Doom
 Megan
 Megaville
@@ -2310,7 +2301,6 @@ Men Must Fight
 Menace from Outer Space
 Menno's Mind
 Meow
-Mesa of Lost Women
 Message from Space
 Metal Gear Solid: Philanthropy
 Metalstorm: The Destruction of Jared-Syn
@@ -2325,6 +2315,7 @@ Mickey 17
 Mickey's Mechanical Man
 Midnight in Paris
 Midnight Special
+Midstream
 Mighty Joe Young
 Mighty Morphin Power Rangers: The Movie
 Mikadroid: Robokill Beneath Discoclub Layla
@@ -2362,8 +2353,8 @@ Mission to Mars
 Mister Drake's Duck
 Mnémora: Pueblo, Poder y Tiempo
 Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer
-Mobile Suit Gundam: Twilight AXIS - Remain of the Red
 Mock-Up on Mu
+Mocland - A Super Space Adventure
 Modern Problems
 Moebius
 Mole Men Against the Son of Hercules
@@ -2377,6 +2368,7 @@ Monolith
 Monster a Go-Go
 Monster Ark
 Monster from the Ocean Floor
+Monster Hunter
 Monster in the Closet
 Monster Island
 Monster Mutt
@@ -2433,13 +2425,13 @@ Mutant Aliens
 Mutant Chronicles
 Mutant Ghost War Girl
 Mutant Girls Squad
+Mutant Hunt
 Mutant Swinger from Mars
 Mute
 Mutiny in Outer Space
 My Country, My Parents
 My Favorite Martian
 My Future Love
-My future of being executed
 My God, My God, Why Hast Thou Forsaken Me?
 My Grandpa is an Alien
 My iz budushchego 2
@@ -2461,12 +2453,14 @@ Nach uns die Sintflut
 Naked Lunch
 Nambiar
 Nation Awakes
+Native
 Natural City
 Nausicaä of the Valley of the Wind
 Nazis at the Center of the Earth
 Needle in a Timestack
 Negadon: The Monster from Mars
 Neighbours
+Nekromancer
 Nemesis
 Nemesis 2: Nebula
 Nemesis 3: Prey Harder
@@ -2479,9 +2473,9 @@ New Eden
 New Rose Hotel
 Next
 Next Exit
+Next Gen
 Nexus 2.431
 Night Caller from Outer Space
-Night Fright
 Night Is Day
 Night Key
 Night Mayor
@@ -2492,7 +2486,6 @@ Night of the Comet
 Night of the Creeps
 Night of the Lepus
 Night of the Living Dead
-Night of the Zoopocalypse
 Night Raiders
 Night Slaves
 Nightbeast
@@ -2520,7 +2513,6 @@ No Smoking
 No Survivors, Please
 No Sympathy for the Devil
 No Time for Nuts
-Nomad
 Non-Stop New York
 Nope
 Nora
@@ -2532,7 +2524,6 @@ Not the End
 Notes from Eremocene
 Nothing
 Nothing Left to Do But Cry
-Nova Star
 Novaya Zemlya
 Now You See Him, Now You Don't
 Nowhere
@@ -2542,6 +2533,7 @@ Nude on the Moon
 Nukie
 Numbers
 Nutty Professor II: The Klumps
+O Horizon
 O Lucky Man!
 O-Bi, O-Ba: The End of Civilization
 O-Solar Meow
@@ -2566,7 +2558,6 @@ On the Edge
 On the Silver Globe
 Once in a New Moon
 Once There Was Brasília
-One Second After
 One-Eyed Monster
 Onna no Ana
 Open Your Eyes
@@ -2587,7 +2578,6 @@ Otstupnik
 Ott in Space
 Our Earthmen Friends
 Our Man Flint
-Out of Time
 Outer Space Jitters
 Outland
 Outlander
@@ -2604,7 +2594,6 @@ P.U.N.K.S.
 Pacific Rim: Uprising
 Pacífico
 Paisa Ho Paisa
-Pajama Party
 Panash
 Pandora
 Pandorum
@@ -2677,6 +2666,7 @@ Piranha Sharks
 Piranhaconda
 Pitch Black
 Pixel Perfect
+Pixel Theory
 Pixels
 Plague
 Plaguers
@@ -2688,7 +2678,6 @@ Planet Hulk
 Planet of Dinosaurs
 Planet of the Apes
 Planet of the Female Invaders
-Planet of the Sharks
 Planet of the Vampires
 Planet Outlaws
 Planet Prince
@@ -2736,22 +2725,22 @@ Prayer of the Rollerboys
 Precious Find
 Predator
 Predator 2
-Predator: Killer of Killers
 Predators
 Predestination
 Prelude to Axanar
 Premonition
 Prey
+Prime Orbit
 Primer
 Prince of Persia: The Sands of Time
 Princess from the Moon
 Princess of Mars
 Prison Planet
 Prison Ship
-Prisoners of the Lost Universe
 Prisoners of Yamagiri-Maru
 Privilege
 Prodigal
+Professor Dowell's Testament
 Professor Tarantoga und ein seltsamer Gast
 Progeny
 Programmed to Kill
@@ -2766,6 +2755,7 @@ Project Lazarus
 Project London
 Project Metalbeast
 Project Moonbase
+Project Power
 Project Shadowchaser
 Project Shadowchaser II
 Project Shadowchaser III
@@ -2778,6 +2768,7 @@ Prometheus
 Prometheus Trap
 Prophecies of Nostradamus
 Prophecy
+Prospect
 Prototype
 Proximity
 Proyecto tiempo
@@ -2800,7 +2791,6 @@ Puzzlehead
 Pyrokinesis
 Pythons 2
 Pájaros Volando
-R. U. R.
 R.O.T.O.R.
 Ra.One
 Rabbit Hero
@@ -2817,12 +2807,10 @@ Raduaa
 Raging Sharks
 Raiders of the Living Dead
 Rainbow Brite and the Star Stealer
-Raise the Titanic
 Rampage
 Raptor
 Raptor Island
 Raptor Ranch
-Ratchet & Clank
 Ratnik
 Rats
 Rats: Night of Terror
@@ -2831,7 +2819,6 @@ Raumschiff Highlander I: The Return of Captain Norad
 Raumschiff Highlander: History
 Ravagers
 Ray Bradbury's Chrysalis
-Ray Gunn
 Razortooth
 Re-Animator
 Re-Penetrator
@@ -2887,6 +2874,7 @@ Resident Evil: The Final Chapter
 Resident Evil: Welcome to Raccoon City
 Resiklo
 Resonnances
+Restore Point
 Resurrection of the Little Match Girl
 Retroactive
 Retrograde
@@ -2920,9 +2908,7 @@ Rising Storm
 Rites of Frankenstein
 Rivals
 Road to the Stars
-Road Wars
 Robinson Crusoe on Mars
-Robo
 RoboCop
 RoboCop 2
 RoboCop 3
@@ -3028,7 +3014,6 @@ Screamers
 Screamers: The Hunting
 Se Tutte le Donne del Mondo
 Sea Beast
-Sea Fever
 Sebastian Star Bear: First Mission
 Second Nature
 Second Origin
@@ -3122,7 +3107,6 @@ Sky Larks
 Sky Pirates
 Skyggen
 Skyline
-Skyline: Warpath
 Skylines
 Skyrunners
 Slapstick of Another Kind
@@ -3149,15 +3133,16 @@ Snow Shark
 Snow, Tea and Love
 Snowpiercer
 Socialisation of a Bull
-Solar Attack
 Solar Crisis
+Solarbabies
 Solaris
 Soldier
+Soledad.com
+Solis
 Solitary
 Solo
 Solo: A Star Wars Story
 Something Beneath
-Something Strange in Strangetown
 Somewhere in Time
 Somne
 Son of Batman
@@ -3168,7 +3153,6 @@ Son of Ingagi
 Sonic the Hedgehog
 Sonic the Hedgehog 2
 Sonic the Hedgehog 3
-Sonic the Hedgehog 4
 Sons of Steel
 Sorry to Bother You
 Source Code
@@ -3184,7 +3168,6 @@ Space Battleship Yamato 2199: Star-Voyaging Ark
 Space Battleship Yamato 2199: Voyage of Remembrance
 Space Battleship Yamato: Resurrection
 Space Brothers
-Space Cadet
 Space Chimps
 Space Chimps 2: Zartog Strikes Back
 Space Cop
@@ -3193,6 +3176,7 @@ Space Dancing!
 Space Dogs: Return to Earth
 Space Invasion of Lapland
 Space Is the Place
+Space Jam: A New Legacy
 Space Marines
 Space Master X-7
 Space Men
@@ -3206,7 +3190,6 @@ Space Probe Taurus
 Space Rage
 Space Raiders
 Space Sheriff Gavan: The Movie
-Space Ship Remnant 6
 Space Ship Sappy
 Space Specks
 Space Station 76
@@ -3236,6 +3219,7 @@ Specimen
 Specter
 Spectral
 Spectres
+Spectres of the Spectrum
 Sphere
 Spheres: Songs of Spacetime
 Spider-Man
@@ -3264,7 +3248,6 @@ Spring
 Sputnik
 Spy Kids: All the Time in the World
 Squirm
-Srdečný pozdrav ze zeměkoule
 SriValli
 Sssssss
 Stacy
@@ -3342,10 +3325,10 @@ Steamboy
 Steel
 Steel and Lace
 Steel Dawn
-Steel Frontier
 Steins;Gate: The Movie − Load Region of Déjà Vu
 Stepsister from Planet Weird
 Stereo
+Steven Universe: The Movie
 Stewie Griffin: The Untold Story
 Still Not Quite Human
 Sting of Death
@@ -3357,6 +3340,7 @@ Storage 24
 Storm War
 Storm Watch
 Stormageddon
+Stowaway
 Stowaway to the Moon
 Stranded
 Stranded – Operation Weltraum
@@ -3371,6 +3355,8 @@ Strayer's Chronicle
 Street Fighter
 Strings
 Stunde des Skorpions
+Subconscious
+Subservience
 Suburban Commando
 Subway to Paradise
 Sugar
@@ -3402,6 +3388,7 @@ Supercollider
 Supercroc
 Supergirl
 Supergirl – Das Mädchen von den Sternen
+SuperGrid
 Superhero Fight Club
 Superhero Fight Club 2.0
 Superlópez
@@ -3438,15 +3425,19 @@ Sword Kill
 Sync
 Synchronic
 Synchronicity
-T-Force
+Syngenor
 T2-3D: Battle Across Time
-Tajemství Ocelového mesta
+Taitei no Ken
 Tajna starog tavana
 Take Me Up to the Ball Game
+Takilleitor
 Taking Tiger Mountain
+Talíře nad Velkým Malíkovem
+Tamala 2010: A Punk Cat in Space
 Tammy and the T-Rex
 Tank Girl
 Tape 407
+Tara
 Tarantula
 Target
 Target Earth
@@ -3462,14 +3453,16 @@ Teen Titans Go! vs. Teen Titans
 Teen Titans: The Judas Contract
 Teenage Cave Man
 Teenage Caveman
+Teenage Monster
 Teenage Mutant Ninja Turtles
 Teenage Mutant Ninja Turtles II: The Secret of the Ooze
 Teenage Mutant Ninja Turtles III
 Teenage Mutant Ninja Turtles: Out of the Shadows
-Teenage Space Vampires
+Teenage Zombies
 Teenagers from Outer Space
 Teens in the Universe
 Tehran 2121 AD
+Teito Monogatari Gaiden
 Tekken
 Teknolust
 Teleios
@@ -3491,16 +3484,18 @@ Terminator Salvation
 Terminator: Dark Fate
 Terminus
 Termites from Mars
-Terra
 Terra Formars
+Terra Willy
 Terrain
 Terror Beneath the Sea
 Terror Birds
 Terror from the Year 5000
+Terror Is a Man
 Terror of Mechagodzilla
 Terror Serpent
 TerrorVision
 Tetra Vaal
+Tetsujin 28: The Movie
 Tetsuo II: Body Hammer
 Tetsuo: The Bullet Man
 Tetsuo: The Iron Man
@@ -3509,8 +3504,9 @@ The 10th Victim
 The 12 Disasters of Christmas
 The 13th Apostle
 The 27th Day
+The 30 Foot Bride of Candy Rock
+The 33D Invader
 The 5th Wave
-The 6 Ultra Brothers vs. the Monster Army
 The 6th Day
 The 716th
 The 8th Day
@@ -3530,7 +3526,7 @@ The Agency
 The Aimed School
 The Air that Kills
 The Airship Destroyer
-The Alien Encounters
+The Airzone Solution
 The Alien Factor
 The Alien Within
 The Aliens Are Coming
@@ -3540,6 +3536,7 @@ The Amazing Colossal Man
 The Amazing Spider-Man
 The Amazing Spider-Man 2
 The Amazing Transparent Man
+The American Astronaut
 The American Way
 The Android Affair
 The Andromeda Nebula
@@ -3552,6 +3549,8 @@ The Anomaly
 The Antares Paradox
 The Ape Man
 The Apocalypse
+The Apple
+The Arcadian
 The Archivists
 The Arrival
 The Arrival of Wang
@@ -3565,10 +3564,13 @@ The Astronaut
 The Astronaut Farmer
 The Astronaut's Wife
 The Atlantis Interceptors
+The Atomic Space Bug
 The Atomic Submarine
 The Attack of the Giant Moussaka
+The Aurora Encounter
 The Avengers
 The Avenging Fist
+The Bamboo Saucer
 The Barrier
 The Batman vs. Dracula
 The Batman/Superman Movie: World's Finest
@@ -3589,6 +3591,7 @@ The Best of Both Worlds
 The Big Bus
 The Big Empty
 The Big Everything
+The Big Space Travel
 The Bite
 The Black Demon
 The Black Hole
@@ -3648,14 +3651,13 @@ The City of Lost Children
 The City Without Jews
 The Clockwork Girl
 The Clone Master
-The Clone Returns Home
 The Cloud
 The Cloverfield Paradox
 The Cold Dark
 The Cold Room
 The Colony
 The Colossus of New York
-The Confederation: The People Make History
+The Computer Wore Tennis Shoes
 The Congress
 The Conquest of the Pole
 The Consultant
@@ -3670,7 +3672,6 @@ The Crazy Ray
 The Creation of the Humanoids
 The Creator
 The Creature Walks Among Us
-The Creature Wasn't Nice
 The Creeping Terror
 The Crimson Ghost
 The Crows
@@ -3692,7 +3693,6 @@ The Darkest Dawn
 The Darkest Hour
 The Darkest Minds
 The Day
-The Day I Helped Save the World
 The Day Mars Invaded Earth
 The Day of the Dolphin
 The Day of the Triffids
@@ -3703,6 +3703,7 @@ The Day the Earth Stopped
 The Day the Sky Exploded
 The Day the World Ended
 The Day Time Ended
+The Dead Undead
 The Dead Zone
 The Deadly Bees
 The Deadly Mantis
@@ -3712,6 +3713,7 @@ The Delegation
 The Destructors
 The Devil Bat
 The Devil Commands
+The Devil Conspiracy
 The Devil's Man
 The Devil's Rock
 The Devil-Doll
@@ -3725,6 +3727,7 @@ The Doll
 The Dolphin's Cry
 The Door into Summer
 The Dreams of Jinsha
+The Dresden Sun
 The Drivetime
 The Dungeonmaster
 The Earth Dies Screaming
@@ -3768,6 +3771,7 @@ The First Men in the Moon
 The Flame Barrier
 The Flash
 The Flesh Eaters
+The Flight of Mr. McKinley
 The Flight that Disappeared
 The Flu
 The Fly
@@ -3800,6 +3804,7 @@ The Giant Claw
 The Giant Gila Monster
 The Giant of Metropolis
 The Giant Spider Invasion
+The Gifted
 The Girl at the Eiffel Tower
 The Girl from Monday
 The Girl from Rio
@@ -3812,13 +3817,12 @@ The Golden Bird
 The Golden Compass
 The Gorge
 The Grave Robbers
+The Gravity
 The Great Big World and Little Children
-The Great Movie Robbery
 The Great Space Adventure
 The Great Wall
 The Green Hornet
 The Green Slime
-The Grim Adventures of the Kids Next Door
 The Guardians of the Galaxy Holiday Special
 The Guest Room
 The Guyver
@@ -3852,7 +3856,6 @@ The Hunger Games
 The Hunger Games: Catching Fire
 The Hunger Games: Mockingjay – Part 1
 The Hunger Games: Mockingjay – Part 2
-The Hunger Games: Sunrise on the Reaping
 The Hunt for the Hidden Relic
 The Hunters
 The Hybrid
@@ -3878,7 +3881,7 @@ The Infinite Man
 The Infinite Worlds of H. G. Wells
 The Inhabited Island
 The Inner Zone
-The Insatiable
+The Internet and You
 The Invader
 The Invasion
 The Invisible Boy
@@ -3990,13 +3993,11 @@ The Medic
 The Medusa Touch
 The Meg
 The Memory of Shadows
-The Memory Stealers
 The Menagerie, Part 1
 The Meteor Man
 The Microchip Killer
 The Midnight Sky
 The Mighty Gorga
-The Million Dollar Duck
 The Million Eyes of Sumuru
 The Mind of Mr. Soames
 The Mini-Munsters
@@ -4123,7 +4124,6 @@ The Revenge of Frankenstein
 The Rift
 The Rocketeer
 The Rocky Horror Picture Show
-The Roller Blade Seven
 The Room
 The Running Man
 The Sacred Spirit
@@ -4146,9 +4146,9 @@ The Secret of Two Oceans
 The Seed
 The Seed of Man
 The Seeker
-The sender
 The Sex Machine
 The Shadow Men
+The Shape of Things to Come
 The Sheriff and the Satellite Kid
 The Show Must Go On
 The Shrouds
@@ -4189,6 +4189,7 @@ The Stronghold
 The Stuff
 The Substance
 The Substitute
+The Suicide Squad
 The Suite Life Movie
 The Summerland Project
 The Sun
@@ -4197,7 +4198,6 @@ The Surgeon
 The Survivalist
 The Swamp of the Ravens
 The Swarm
-The Temple
 The Terminal Man
 The Terminator
 The Terminators
@@ -4211,18 +4211,17 @@ The Thing
 The Thing from Another World
 The Thing with Two Heads
 The Thinning
-The Third Parent
 The Thirteenth Floor
 The Thousand Eyes of Dr. Mabuse
 The Three Fantastic Supermen
 The Three Musketeers
 The Three Worlds of Gulliver
 The Throw, or Everything Started on Saturday
+The Thundermans Return
 The Time Guardian
 The Time Machine
 The Time Masters
 The Time Traveler's Wife
-The Time Travelers
 The Tingler
 The Titan
 The Tommyknockers
@@ -4275,7 +4274,6 @@ The Watcher in the Woods
 The Wesley's Mysterious File
 The Whispering Star
 The Wicked City
-The Wild Robot
 The Wind is Watching
 The Wisdom Tree
 The Witches Cave
@@ -4322,6 +4320,7 @@ Thunderbirds Are Go
 Thunderbolts*
 Thunderpants
 THX 1138
+Tick Tock
 Tidal Wave
 Tides
 Tiempo después
@@ -4338,6 +4337,7 @@ Time Machine: The Journey Back
 Time of Eve
 Time of Roses
 Time of the Apes
+Time Runner
 Time Trackers
 Time Trap
 Time Travel Mater
@@ -4405,6 +4405,7 @@ Transformers: Dark of the Moon
 Transformers: Revenge of the Fallen
 Transformers: Rise of the Beasts
 Transformers: The Last Knight
+Transmorphers
 Transmorphers: Fall of Man
 Transplant of a Brain
 Trapped by Television
@@ -4418,6 +4419,7 @@ Tremors 4: The Legend Begins
 Tremors 5: Bloodline
 Triassic Attack
 Tribulation
+Tribulation 99: Alien Anomalies Under America
 Trigun: Badlands Rumble
 Trinity
 Trip
@@ -4427,6 +4429,7 @@ Tron: Legacy
 Trucks
 Truffles
 TRUST.Welfare
+Truth
 Tuman
 Turbo: A Power Rangers Movie
 Turkey Shoot
@@ -4439,16 +4442,15 @@ Twins Mission
 Twisted Pair
 Two Lost Worlds
 Two Tickets to India
-Tycus
 Tykho Moon
 Tête de chou
 U-47700
 U.F.O.
+UFO
 UFO Sweden
 UFO: Distruggete Base Luna
 UFO: It Is Here
 UFO: Target Earth
-UFOria
 Uglies
 Ulagam Sutrum Valiban
 Ultra Warrior
@@ -4541,13 +4543,11 @@ Virus
 Virus: Extreme Contamination
 Visit to a Small Planet
 Vitreous Flower Destroys the World
-Vivarium
 Viyabari
 Voices of a Distant Star
 Volition
 Voltar the Invincible
 Voltron
-Voltron: The End
 Vortex
 Voyage of the Rock Aliens
 Voyage to the Bottom of the Sea
@@ -4567,6 +4567,7 @@ War of the Satellites
 War of the Worlds
 War of the Worlds - The True Story
 War of the Worlds 2: The Ending of World War
+War of the Worlds 2: The Next Wave
 War of the Worlds: Annihilation
 War of the Worlds: Goliath
 Warbirds
@@ -4580,7 +4581,6 @@ Warriors of the Year 2072
 Wartime
 Watchers
 Watchers II
-Watchmen Chapter 1
 Waterworld
 Wavelength
 Wax or the Discovery of Television Among the Bees
@@ -4596,6 +4596,7 @@ Weird Science
 Welcome to Blood City
 Welcome to Willits
 Weltraumschiff 1 startet...
+Westworld
 Wham! Bam! Thank You, Spaceman!
 What Happened to Monday
 What Nobody Can See
@@ -4610,9 +4611,8 @@ When Time Expires
 When We First Met
 When Women Had Tails
 When Worlds Collide
-Where the Early Bird Catches
 Whit Monday
-White Mars
+White Dwarf
 Who
 Who Is Julia?
 Who Wants to Kill Jessie?
@@ -4620,6 +4620,7 @@ Who?
 Why Did You Pick On Me?
 Why the UFOs Steal Our Lettuce
 Wicked City
+Wifelike
 Wild in the Streets
 Wild Wild West
 Wild, Wild Planet
@@ -4642,7 +4643,6 @@ Wonderful World
 Wonderland
 Wonderman
 Woodpecker from Mars
-World Builder
 World Gone Wild
 World on a Wire
 World War Z
@@ -4669,7 +4669,6 @@ Xtro II: The Second Encounter
 Yak: The Giant King
 Yakuza Weapon
 Yamato: The New Voyage
-Yellow
 Yesterday
 Yesterday Was a Lie
 Yesterday's Target
@@ -4677,7 +4676,6 @@ Yogi and the Invasion of the Space Bears
 Yongary
 Yor, the Hunter from the Future
 You Are a Widow
-You Imagined
 Young Frankenstein
 Young Ones
 Your Name
