@@ -1,8 +1,8 @@
 generated_utc	source_id	category_id	enabled	status	count	note
-2026-10-18T07:44:37Z	Q471839	adult_core	1	ok	4723	pornographic film
-2026-10-18T07:44:38Z	Q128145358	adult_extra_strict	1	ok	62	gay pornographic film
-2026-10-18T07:44:39Z	Q125719481	adult_extra_strict	1	ok	46	lesbian pornographic film
-2026-10-18T07:44:39Z	Q114051112	adult_extra_strict	1	ok	1	POV pornographic film
-2026-10-18T07:44:39Z	manual_titles	adult_movies_high_risk	1	ok	110	data/manual/titles.tsv
-2026-10-18T07:44:39Z	manual_keywords	adult_movies_high_risk	1	ok	101	data/manual/keywords.tsv
-2026-10-18T07:44:39Z	manual_keywords	adult_streaming_ads	1	ok	6	data/manual/keywords.tsv
+2026-10-25T08:04:54Z	Q471839	adult_core	1	ok	4695	pornographic film
+2026-10-25T08:04:55Z	Q128145358	adult_extra_strict	1	ok	62	gay pornographic film
+2026-10-25T08:04:55Z	Q125719481	adult_extra_strict	1	ok	46	lesbian pornographic film
+2026-10-25T08:04:56Z	Q114051112	adult_extra_strict	1	ok	1	POV pornographic film
+2026-10-25T08:04:56Z	manual_titles	adult_movies_high_risk	1	ok	110	data/manual/titles.tsv
+2026-10-25T08:04:56Z	manual_keywords	adult_movies_high_risk	1	ok	101	data/manual/keywords.tsv
+2026-10-25T08:04:56Z	manual_keywords	adult_streaming_ads	1	ok	6	data/manual/keywords.tsv
