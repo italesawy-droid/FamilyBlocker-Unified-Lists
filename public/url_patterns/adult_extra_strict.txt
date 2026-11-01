@@ -52,6 +52,7 @@
 *://*.bing.com/search*Girlvana*3*
 *://*.bing.com/search*Girlvana*4*
 *://*.bing.com/search*Grunts*
+*://*.bing.com/search*Hard*In*Love*
 *://*.bing.com/search*Him*
 *://*.bing.com/search*Honorable*Discharge*
 *://*.bing.com/search*Hotel*Italia*
@@ -161,6 +162,7 @@
 *://*.duckduckgo.com/*q=*Girlvana*3*
 *://*.duckduckgo.com/*q=*Girlvana*4*
 *://*.duckduckgo.com/*q=*Grunts*
+*://*.duckduckgo.com/*q=*Hard*In*Love*
 *://*.duckduckgo.com/*q=*Him*
 *://*.duckduckgo.com/*q=*Honorable*Discharge*
 *://*.duckduckgo.com/*q=*Hotel*Italia*
@@ -270,6 +272,7 @@
 *://*.google.*/*q=*Girlvana*3*
 *://*.google.*/*q=*Girlvana*4*
 *://*.google.*/*q=*Grunts*
+*://*.google.*/*q=*Hard*In*Love*
 *://*.google.*/*q=*Him*
 *://*.google.*/*q=*Honorable*Discharge*
 *://*.google.*/*q=*Hotel*Italia*
@@ -379,6 +382,7 @@
 *://*.youtube.com/results*search_query=*Girlvana*3*
 *://*.youtube.com/results*search_query=*Girlvana*4*
 *://*.youtube.com/results*search_query=*Grunts*
+*://*.youtube.com/results*search_query=*Hard*In*Love*
 *://*.youtube.com/results*search_query=*Him*
 *://*.youtube.com/results*search_query=*Honorable*Discharge*
 *://*.youtube.com/results*search_query=*Hotel*Italia*
@@ -488,6 +492,7 @@
 *://*/*Girlvana*3*
 *://*/*Girlvana*4*
 *://*/*Grunts*
+*://*/*Hard*In*Love*
 *://*/*Him*
 *://*/*Honorable*Discharge*
 *://*/*Hotel*Italia*
